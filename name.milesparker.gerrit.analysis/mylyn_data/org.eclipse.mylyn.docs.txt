@@ -1,0 +1,911 @@
+Torkild U. Resheim	2012-12-18	2012-12-18	true	 1	8	7
+Gerrit Code Review @ Eclipse.org	2012-12-17	2012-12-13	true	 2	104	4
+Tom Seidel	2012-12-17	2012-12-17	false	 3	33	49
+Tom Seidel	2012-12-16	2012-12-16	false	 3	49	33
+David Green	2012-12-12	2012-12-12	false	 1	1	1
+Billy Huang	2012-12-12	2012-12-12	true	 3	157	0
+Torkild U. Resheim	2012-11-08	2012-11-08	true	 2	2	2
+Torkild U. Resheim	2012-11-07	2012-11-07	true	 4	3	3
+Torkild U. Resheim	2012-11-07	2012-11-07	true	 5	114	5
+Torkild U. Resheim	2012-11-03	2012-11-03	true	 1	16	12
+Torkild U. Resheim	2012-11-03	2012-11-03	true	 4	27	21
+Jeremie Bresson	2012-10-16	2012-10-16	true	 2	37	2
+David Green	2012-10-11	2012-10-11	true	 3	29	5
+David Green	2012-10-11	2012-09-27	true	 2	25	1
+David Green	2012-10-09	2012-10-09	true	 10	262	49
+Torkild U. Resheim	2012-09-20	2012-09-20	true	 1	1	0
+Torkild U. Resheim	2012-09-20	2012-09-20	true	 1	1	2
+Jeremie Bresson	2012-09-19	2012-09-19	true	 2	37	6
+Steffen Pingel	2012-09-15	2012-09-15	true	 1	4	0
+David Green	2012-09-13	2012-09-13	true	 3	60	60
+Steffen Pingel	2012-09-06	2012-09-06	true	 34	68	0
+David Green	2012-09-05	2012-09-05	true	 3	179	27
+Torkild U. Resheim	2012-08-01	2012-08-01	true	 13	426	57
+David Green	2012-07-27	2012-07-23	true	 5	57	4
+Torkild U. Resheim	2012-07-25	2012-07-25	true	 6	8	0
+Torkild U. Resheim	2012-07-24	2012-07-24	true	 1	8	13
+Torkild U. Resheim	2012-07-23	2012-07-23	true	 1	0	16
+David Green	2012-07-23	2012-07-20	true	 2	38	2
+David Green	2012-07-20	2012-07-19	true	 2	28	3
+David Green	2012-07-20	2012-07-20	true	 1	17	10
+Steffen Pingel	2012-07-18	2012-07-18	false	 1	1	0
+Torkild U. Resheim	2012-07-11	2012-07-11	true	 2	14	5
+David Green	2012-07-09	2012-07-09	false	 2	40	1
+David Green	2012-07-09	2012-07-09	true	 2	47	6
+David Green	2012-07-09	2012-07-09	false	 1	14	2
+David Green	2012-07-09	2012-07-05	true	 4	127	4
+Steffen Pingel	2012-07-04	2012-07-04	false	 63	96	96
+Torkild U. Resheim	2012-06-26	2012-06-26	true	 2	227	13
+Torkild U. Resheim	2012-06-21	2012-06-21	true	 3	2	6
+Torkild U. Resheim	2012-06-21	2012-06-21	true	 1	3	4
+Torkild U. Resheim	2012-06-21	2012-06-21	true	 4	4	4
+Torkild U. Resheim	2012-06-21	2012-06-21	true	 1	1	1
+Torkild U. Resheim	2012-06-21	2012-06-21	true	 23	103	110
+Torkild U. Resheim	2012-06-04	2012-06-04	true	 1	1	1
+Torkild U. Resheim	2012-06-04	2012-06-04	true	 1	12	14
+Torkild U. Resheim	2012-06-04	2012-06-04	true	 1	2	2
+Steffen Pingel	2012-06-04	2012-06-04	true	 15	134	16
+Steffen Pingel	2012-06-04	2012-05-25	true	 10	676	0
+Steffen Pingel	2012-06-04	2012-06-04	true	 4	17	17
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	1	14
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	8	9
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	0	1
+Steffen Pingel	2012-06-04	2012-06-04	false	 2	2	2
+Torkild U. Resheim	2012-05-21	2012-05-21	true	 49	131	47
+Torkild U. Resheim	2012-05-20	2012-05-20	true	 7	200	82
+Torkild U. Resheim	2012-05-18	2012-05-18	true	 15	101	76
+Torkild U. Resheim	2012-05-18	2012-05-18	true	 8	309	437
+Torkild U. Resheim	2012-05-18	2012-05-18	true	 14	264	283
+Torkild U. Resheim	2012-05-17	2012-05-17	true	 4	142	12
+Torkild U. Resheim	2012-05-17	2012-05-17	true	 5	49	15
+David Green	2012-05-15	2012-05-15	true	 7	64	64
+Torkild U. Resheim	2012-05-12	2012-05-12	true	 2	2	2
+Torkild U. Resheim	2012-05-09	2012-05-09	true	 5	51	10
+Torkild U. Resheim	2012-05-04	2012-05-04	true	 2	54	17
+Torkild U. Resheim	2012-05-03	2012-05-03	true	 1	1	1
+Torkild U. Resheim	2012-05-03	2012-05-03	true	 5	172	79
+Torkild U. Resheim	2012-05-03	2012-05-03	true	 5	59	11
+Torkild U. Resheim	2012-04-29	2012-04-29	true	 4	25	20
+David Green	2012-04-26	2012-04-26	false	 6	6	6
+David Green	2012-04-26	2012-04-26	true	 6	246	22
+Torkild U. Resheim	2012-04-25	2012-04-25	true	 6	86	9
+Torkild U. Resheim	2012-04-17	2012-04-17	true	 2	17	9
+David Green	2012-04-16	2012-04-16	true	 4	30	4
+Torkild U. Resheim	2012-04-16	2012-04-16	false	 33	370	168
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 5	68	4
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 19	584	395
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 4	25	9
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 1	4	1
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 4	69	18
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 17	190	836
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 2	7	2
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 3	64	32
+Torkild U. Resheim	2012-04-15	2012-04-15	false	 49	1786	1292
+David Green	2012-04-05	2012-04-05	false	 1	1	1
+David Green	2012-03-28	2012-03-28	false	 3	35	9
+David Green	2012-03-27	2012-03-27	false	 3	35	4
+Steffen Pingel	2012-03-24	2012-03-19	false	 1	1	1
+Steffen Pingel	2012-03-22	2012-03-22	true	 2	6	7
+Steffen Pingel	2012-03-22	2012-03-22	true	 59	89	89
+Steffen Pingel	2012-03-14	2012-03-14	true	 2	1	9
+Steffen Pingel	2012-03-08	2012-03-08	true	 8	65	71
+Steffen Pingel	2012-03-07	2012-03-07	false	 1	1	1
+David Green	2012-03-02	2012-03-02	false	 1	34	34
+David Green	2012-03-02	2012-03-02	false	 2	34	116
+Steffen Pingel	2012-03-01	2012-03-01	false	 2	0	36
+Steffen Pingel	2012-03-01	2012-03-01	true	 1	1	0
+Steffen Pingel	2012-03-01	2012-03-01	true	 4	51	30
+David Green	2012-02-29	2012-02-29	false	 1	1	1
+Steffen Pingel	2012-02-29	2012-02-29	true	 1	1	1
+David Green	2012-02-28	2012-02-28	false	 2	7	1
+Steffen Pingel	2012-02-28	2012-02-28	true	 145	44532	80
+Steffen Pingel	2012-02-25	2012-02-24	true	 191	14387	0
+Steffen Pingel	2012-02-23	2012-02-23	false	 1	1	3
+David Green	2012-02-21	2012-02-21	false	 1	258	258
+David Green	2012-02-21	2012-02-21	false	 2	132	120
+Steffen Pingel	2012-02-17	2012-02-17	false	 10	23	15
+Steffen Pingel	2012-02-17	2012-02-17	true	 19	0	49
+David Green	2012-02-09	2012-02-09	false	 3	105	2
+David Green	2012-02-08	2012-02-08	false	0	0	0
+Steffen Pingel	2012-02-08	2012-02-08	false	 4	4	4
+Steffen Pingel	2012-02-04	2012-02-04	true	 4	11	44
+Steffen Pingel	2012-02-04	2012-02-04	false	 1	1	1
+Steffen Pingel	2012-02-04	2012-02-04	false	 1	3	0
+David Green	2012-01-27	2012-01-27	false	 3	49	8
+Steffen Pingel	2012-01-27	2012-01-27	false	 1	1	1
+David Green	2012-01-25	2012-01-25	false	 2	22	9
+Steffen Pingel	2012-01-25	2012-01-25	false	 1	7	0
+David Green	2012-01-24	2012-01-24	false	 2	52	3
+David Green	2012-01-24	2012-01-24	false	 10	224	18
+David Green	2012-01-24	2012-01-24	false	 1	21	14
+David Green	2012-01-24	2012-01-24	true	 20	1628	211
+David Green	2012-01-19	2012-01-19	false	 5	177	17
+David Green	2012-01-16	2012-01-16	false	 2	45	2
+David Green	2012-01-16	2012-01-16	false	 3	10	0
+David Green	2012-01-09	2012-01-09	false	 3	741	741
+David Green	2012-01-09	2012-01-09	false	 2	42	1
+Steffen Pingel	2011-12-07	2011-12-07	false	 1	2	2
+David Green	2011-12-02	2011-12-02	false	 2	85	17
+David Green	2011-12-01	2011-12-01	false	 6	7	7
+David Green	2011-12-01	2011-12-01	false	 3	6	3
+David Green	2011-12-01	2011-12-01	false	 4	126	77
+David Green	2011-12-01	2011-12-01	false	 12	1938	1869
+David Green	2011-11-30	2011-11-30	false	 6	107	4
+David Green	2011-11-30	2011-11-30	false	 4	60	10
+David Green	2011-11-30	2011-11-30	false	 5	630	112
+David Green	2011-11-25	2011-11-25	false	 2	101	42
+David Green	2011-11-25	2011-11-25	false	 7	323	95
+David Green	2011-11-24	2011-11-24	false	 1	15	2
+Steffen Pingel	2011-11-24	2011-11-24	false	 77	3869	3819
+David Green	2011-11-23	2011-11-23	false	 3	34	5
+David Green	2011-11-22	2011-11-22	false	 1	6	0
+David Green	2011-11-22	2011-11-22	false	 3	11	4
+David Green	2011-11-18	2011-11-18	false	 1	15	2
+David Green	2011-11-16	2011-11-16	false	 3	18	12
+David Green	2011-11-16	2011-11-16	true	 3	180	2
+David Green	2011-11-09	2011-11-09	false	 1	1	3
+David Green	2011-11-09	2011-11-09	false	 2	33	3
+David Green	2011-11-09	2011-11-09	false	 2	2	3
+David Green	2011-11-09	2011-11-09	false	 2	56	3
+David Green	2011-11-08	2011-11-08	false	 1	1	1
+David Green	2011-11-07	2011-11-07	false	 8	626	1
+David Green	2011-11-07	2011-11-07	false	 1	1	1
+David Green	2011-11-07	2011-11-07	false	 1	1	1
+David Green	2011-11-04	2011-11-04	true	 5	313	3
+David Green	2011-11-02	2011-11-02	false	 1	18	3
+David Green	2011-11-01	2011-11-01	false	 4	370	215
+David Green	2011-10-31	2011-10-31	true	 17	833	216
+David Green	2011-10-28	2011-10-28	false	 5	100	5
+David Green	2011-10-28	2011-10-28	false	 1	19	18
+David Green	2011-09-28	2011-09-28	false	 1	2	2
+David Green	2011-09-28	2011-09-28	false	 1	2	1
+David Green	2011-09-28	2011-09-28	false	 3	41	42
+Steffen Pingel	2011-09-28	2011-09-28	false	 17	675	675
+David Green	2011-09-27	2011-09-27	true	 52	3137	43
+David Green	2011-09-23	2011-09-23	false	 8	104	8
+David Green	2011-09-23	2011-09-23	false	 3	46	18
+David Green	2011-09-22	2011-09-22	false	 3	48	28
+David Green	2011-09-20	2011-09-20	false	 3	36	1
+David Green	2011-09-16	2011-09-16	false	 19	2061	702
+David Green	2011-09-15	2011-09-15	false	 2	3	3
+David Green	2011-09-13	2011-09-13	false	 2	7	1
+David Green	2011-09-12	2011-09-12	false	 1	1	1
+David Green	2011-09-09	2011-09-09	false	 4	106	7
+David Green	2011-09-09	2011-09-09	false	 4	1321	0
+David Green	2011-09-01	2011-09-01	false	 1	2	6
+David Green	2011-08-29	2011-08-29	false	 9	123	21
+David Green	2011-08-29	2011-08-29	false	 2	13	1
+Steffen Pingel	2011-08-28	2011-08-28	false	 503	7516	7516
+Steffen Pingel	2011-08-27	2011-08-27	false	 3	3	3
+Steffen Pingel	2011-08-25	2011-08-25	false	 1	0	4
+Steffen Pingel	2011-08-17	2011-08-17	false	 1	2	2
+David Green	2011-08-16	2011-08-16	false	 1	8	0
+David Green	2011-08-16	2011-08-16	false	 7	305	46
+David Green	2011-08-16	2011-08-16	false	 2	51	49
+David Green	2011-08-16	2011-08-10	false	 1	1	1
+Steffen Pingel	2011-08-11	2011-08-11	false	 1	4	4
+Steffen Pingel	2011-08-11	2011-08-11	false	 3	141	0
+David Green	2011-08-10	2011-08-10	false	 1	2	0
+David Green	2011-08-09	2011-08-09	false	 2	61	4
+David Green	2011-08-08	2011-08-08	false	 1	8	3
+David Green	2011-08-05	2011-08-05	false	 1	403	9
+David Green	2011-07-25	2011-07-25	false	 4	95	1
+Steffen Pingel	2011-07-24	2011-07-24	false	 1	27	0
+Steffen Pingel	2011-07-21	2011-07-21	false	 5	105	0
+Steffen Pingel	2011-07-11	2011-07-11	false	 1	10	0
+Steffen Pingel	2011-07-10	2011-07-10	false	 1	1	1
+Steffen Pingel	2011-07-10	2011-07-10	false	 22	43	344
+David Green	2011-07-07	2011-07-07	false	 2	19	3
+Steffen Pingel	2011-07-01	2011-07-01	false	 1	2	2
+Steffen Pingel	2011-06-30	2011-06-30	false	0	0	0
+tseidel	2011-06-30	2011-06-30	false	 3	138	0
+David Green	2011-06-29	2011-06-29	false	 1	4	0
+David Green	2011-06-29	2011-06-29	false	 1	1	1
+Steffen Pingel	2011-06-25	2011-06-22	false	 1	1	1
+David Green	2011-06-22	2011-06-22	false	 4	99	3
+David Green	2011-06-22	2011-06-17	false	 4	773	727
+Steffen Pingel	2011-06-16	2011-06-16	false	 18	43	43
+Steffen Pingel	2011-06-16	2011-06-16	false	 43	66	66
+Steffen Pingel	2011-06-08	2011-06-08	false	 1	12	0
+Steffen Pingel	2011-06-08	2011-06-06	false	 4	0	24
+David Green	2011-06-06	2011-06-06	false	 3	99	4
+Steffen Pingel	2011-05-30	2011-05-30	false	 1	1	1
+tseidel	2011-05-29	2011-05-29	false	0	0	0
+tseidel	2011-05-28	2011-05-28	false	 11	419	66
+Steffen Pingel	2011-05-25	2011-05-25	false	 2	4	2
+tseidel	2011-05-25	2011-05-25	false	 1	38	0
+tseidel	2011-05-25	2011-05-25	false	 3	50	16
+Steffen Pingel	2011-05-21	2011-05-21	false	 6	12	6
+Steffen Pingel	2011-05-18	2011-05-18	false	 1	1	0
+Steffen Pingel	2011-05-18	2011-05-18	false	 1	1	1
+David Green	2011-05-09	2011-05-09	false	 2	5	5
+David Green	2011-05-09	2011-05-09	false	 1	14	0
+tseidel	2011-05-08	2011-05-08	false	 1	2	3
+tseidel	2011-05-08	2011-05-08	false	 1	30	0
+tseidel	2011-05-07	2011-05-07	false	 3	80	40
+tseidel	2011-05-07	2011-04-21	false	 1	3	0
+tseidel	2011-05-07	2011-03-25	false	 2	44	7
+Steffen Pingel	2011-04-21	2011-04-21	false	 1	5	0
+David Green	2011-04-05	2011-04-05	false	 3	54	1
+David Green	2011-04-05	2011-04-05	false	 3	47	1
+Steffen Pingel	2011-03-27	2011-03-27	false	 3	4	4
+Steffen Pingel	2011-03-27	2011-03-27	false	 42	407	408
+David Green	2011-03-25	2011-03-25	false	 1	2	2
+Steffen Pingel	2011-03-15	2011-03-15	false	 2	4	3
+Steffen Pingel	2011-03-11	2011-03-11	false	 1	1	1
+David Green	2011-03-10	2011-03-10	false	 2	14	74
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	15	0
+Steffen Pingel	2011-03-08	2011-03-08	false	 2	4	98
+Steffen Pingel	2011-03-08	2011-03-08	false	 12	0	559
+David Green	2011-03-07	2011-03-07	false	 1	8	0
+Steffen Pingel	2011-03-07	2011-03-07	false	 2	2	18
+Steffen Pingel	2011-03-04	2011-03-04	false	 1	281	6
+Steffen Pingel	2011-03-03	2011-03-03	false	 1	4	5
+Steffen Pingel	2011-03-03	2011-03-03	false	 1	1	2
+David Green	2011-03-02	2011-03-02	false	 2	87	2
+David Green	2011-03-02	2011-03-02	false	 1	11	1
+Steffen Pingel	2011-03-02	2011-03-02	false	 256	615	707
+Steffen Pingel	2011-03-02	2011-03-02	false	 3	25	5
+David Green	2011-03-02	2011-03-02	false	 1	1	1
+David Green	2011-03-02	2011-03-02	false	 3	11	3
+David Green	2011-03-01	2011-03-01	false	0	0	0
+David Green	2011-03-01	2011-03-01	false	 2	28	1
+Steffen Pingel	2011-02-24	2011-02-24	false	 11	696	16
+Steffen Pingel	2011-02-24	2011-02-23	false	 1	6	0
+David Green	2011-02-11	2011-02-11	false	 1	3	1
+Steffen Pingel	2011-02-01	2011-02-01	false	 1	0	14
+Steffen Pingel	2011-02-01	2011-02-01	false	 14	714	5
+Steffen Pingel	2011-01-27	2011-01-27	false	 2	3	4
+David Green	2011-01-25	2011-01-25	false	0	0	0
+David Green	2011-01-25	2011-01-25	false	 1	2	0
+Steffen Pingel	2011-01-22	2011-01-22	false	 1	0	8
+Steffen Pingel	2011-01-21	2011-01-21	false	 2	92	36
+Steffen Pingel	2011-01-20	2011-01-20	false	0	0	0
+Steffen Pingel	2011-01-20	2011-01-20	false	 34	403	40
+David Green	2011-01-20	2011-01-20	false	 2	15	4
+David Green	2011-01-18	2011-01-18	false	 44	3794	3846
+David Green	2011-01-12	2011-01-12	false	 3	8	35
+David Green	2011-01-10	2011-01-10	false	 5	297	10
+David Green	2011-01-05	2011-01-05	false	 1	4	1
+David Green	2011-01-05	2011-01-05	false	 2	13	13
+Steffen Pingel	2010-12-14	2010-12-14	false	 45	344	2
+dgreen	2010-12-02	2010-12-02	false	 1	1	1
+dgreen	2010-11-25	2010-11-25	false	 1	8	1
+dgreen	2010-10-28	2010-10-28	false	 1	4	3
+tseidel	2010-10-27	2010-10-27	false	 1	0	20
+spingel	2010-10-26	2010-10-26	false	 10	92	6
+dgreen	2010-10-26	2010-10-26	false	 2	84	0
+dgreen	2010-10-21	2010-10-21	false	 2	34	3
+dgreen	2010-10-19	2010-10-19	false	 1	1	1
+dgreen	2010-10-19	2010-10-19	false	 3	49	5
+dgreen	2010-10-19	2010-10-19	false	 3	11	5
+dgreen	2010-10-19	2010-10-19	false	 1	14	6
+tseidel	2010-09-21	2010-09-21	false	 195	3924	0
+tseidel	2010-09-20	2010-09-20	false	 40	2931	0
+dgreen	2010-09-14	2010-09-14	false	 2	23	6
+dgreen	2010-09-01	2010-09-01	false	 4	74	5
+dgreen	2010-08-31	2010-08-31	false	 1	8	4
+dgreen	2010-08-19	2010-08-19	false	 2	14	2
+dgreen	2010-07-29	2010-07-29	false	 1	10	0
+dgreen	2010-07-23	2010-07-23	false	 1	66	14
+dgreen	2010-07-23	2010-07-23	false	 3	261	15
+dgreen	2010-07-05	2010-07-05	false	 2	27	3
+dgreen	2010-07-05	2010-07-05	false	 1	1	1
+spingel	2010-06-25	2010-06-25	false	 18	58	58
+spingel	2010-06-22	2010-06-22	false	 3	9	39
+spingel	2010-06-08	2010-06-08	false	 51	79	49
+dgreen	2010-06-04	2010-06-04	false	 3	10	12
+dgreen	2010-06-01	2010-06-01	false	 1	15	5
+dgreen	2010-05-26	2010-05-26	false	 1	18	4
+dgreen	2010-05-25	2010-05-25	false	 2	22	6
+dgreen	2010-05-25	2010-05-25	false	 3	38	5
+dgreen	2010-05-24	2010-05-24	false	 1	7	0
+spingel	2010-05-24	2010-05-24	false	 1	3	3
+spingel	2010-05-22	2010-05-22	false	 1	72	11
+dgreen	2010-05-11	2010-05-11	false	 6	226	43
+dgreen	2010-05-05	2010-05-05	false	 1	6	0
+dgreen	2010-05-03	2010-05-03	false	 1	4	2
+dgreen	2010-05-03	2010-05-03	false	 1	3	3
+dgreen	2010-04-30	2010-04-30	false	 3	9	2
+spingel	2010-04-29	2010-04-29	false	 4	330	214
+dgreen	2010-04-29	2010-04-29	false	 1	1	1
+dgreen	2010-04-29	2010-04-29	false	 1	1	11
+dgreen	2010-04-28	2010-04-28	false	 1	13	0
+spingel	2010-04-23	2010-04-23	false	 1	0	3
+spingel	2010-04-23	2010-04-23	false	 1	9	9
+spingel	2010-04-23	2010-04-23	false	 1	0	3
+spingel	2010-04-23	2010-04-23	false	 2	0	34
+spingel	2010-04-15	2010-04-15	false	 2	144	48
+dgreen	2010-04-09	2010-04-09	false	 2	10	3
+spingel	2010-04-07	2010-04-07	false	 2	3	5
+dgreen	2010-03-04	2010-03-04	false	 1	71	0
+dgreen	2010-03-04	2010-03-04	false	 2	70	4
+dgreen	2010-03-04	2010-03-04	false	 2	18	3
+dgreen	2010-03-01	2010-03-01	false	 2	78	27
+dgreen	2010-02-23	2010-02-23	false	 4	277	4
+dgreen	2010-02-23	2010-02-23	false	 1	4	4
+dgreen	2010-02-23	2010-02-23	false	 1	4	2
+dgreen	2010-02-22	2010-02-22	false	 3	11	0
+dgreen	2010-02-11	2010-02-11	false	 3	62	1
+dgreen	2010-02-11	2010-02-11	false	 3	4	1
+dgreen	2010-02-09	2010-02-09	false	 1	0	6
+dgreen	2010-02-09	2010-02-09	false	 4	15	8
+dgreen	2010-02-09	2010-02-09	false	 4	59	10
+dgreen	2010-02-08	2010-02-08	false	 6	61	97
+dgreen	2010-02-08	2010-02-08	false	 8	639	6
+dgreen	2010-02-07	2010-02-07	false	 2	9	5
+dgreen	2010-02-07	2010-02-07	false	 1	1	0
+dgreen	2010-02-07	2010-02-07	false	 2	17	10
+dgreen	2010-02-07	2010-02-07	false	 7	1038	4
+dgreen	2010-02-07	2010-02-07	false	 2	21	3
+dgreen	2010-02-07	2010-02-07	false	 3	1532	22
+dgreen	2010-02-07	2010-02-07	false	 2	97	8
+dgreen	2010-01-25	2010-01-25	false	 3	32	9
+dgreen	2010-01-22	2010-01-22	false	 1	1	1
+dgreen	2010-01-22	2010-01-22	false	 5	110	30
+dgreen	2010-01-17	2010-01-17	false	 2	26	6
+dgreen	2010-01-15	2010-01-15	false	 1	14	0
+dgreen	2010-01-14	2010-01-14	false	 1	14	6
+dgreen	2010-01-14	2010-01-14	false	 1	12	2
+dgreen	2010-01-14	2010-01-14	false	 5	221	74
+dgreen	2010-01-11	2010-01-11	false	 66	650	608
+spingel	2010-01-10	2010-01-10	false	 2	2	2
+dgreen	2010-01-07	2010-01-07	false	 1	11	11
+dgreen	2010-01-07	2010-01-07	false	 1	6	0
+dgreen	2010-01-06	2010-01-06	false	 1	6	0
+dgreen	2010-01-06	2010-01-06	false	 2	24	4
+dgreen	2010-01-04	2010-01-04	false	 1	2	2
+dgreen	2010-01-04	2010-01-04	false	 2	11	1
+dgreen	2009-12-18	2009-12-18	false	 4	99	21
+spingel	2009-12-09	2009-12-09	false	 7	13	18
+dgreen	2009-12-07	2009-12-07	false	 11	150	67
+dgreen	2009-12-06	2009-12-06	false	 2	9	1
+dgreen	2009-12-04	2009-12-04	false	 6	185	6
+dgreen	2009-12-04	2009-12-04	false	 4	478	74
+dgreen	2009-12-04	2009-12-04	false	 3	5	6
+dgreen	2009-12-03	2009-12-03	false	 5	6	17
+dgreen	2009-12-03	2009-12-03	false	 2	7	7
+dgreen	2009-12-03	2009-12-03	false	 3	131	11
+dgreen	2009-12-02	2009-12-02	false	 1	6	5
+spingel	2009-12-02	2009-12-02	false	 2	2	8
+dgreen	2009-12-01	2009-12-01	false	 1	2	2
+spingel	2009-11-20	2009-11-20	false	 1	1	1
+spingel	2009-11-19	2009-11-19	false	 2	0	5
+dgreen	2009-11-16	2009-11-16	false	 6	1022	0
+spingel	2009-11-14	2009-11-14	false	 3	20	37
+spingel	2009-11-13	2009-11-13	false	 1	3	3
+dgreen	2009-11-13	2009-11-13	false	 1	19	1
+dgreen	2009-11-13	2009-11-13	false	 1	2	3
+dgreen	2009-11-10	2009-11-10	false	 2	54	1
+spingel	2009-11-08	2009-11-08	false	 2	8	2
+dgreen	2009-10-30	2009-10-30	false	 3	56	14
+dgreen	2009-10-30	2009-10-30	false	 1	9	3
+dgreen	2009-10-30	2009-10-30	false	 1	1	0
+dgreen	2009-10-30	2009-10-30	false	 3	53	0
+dgreen	2009-10-30	2009-10-30	false	 17	64	64
+dgreen	2009-10-25	2009-10-25	false	 2	23	2
+dgreen	2009-10-25	2009-10-25	false	 2	2	4
+dgreen	2009-10-20	2009-10-20	false	 1	3	10
+dgreen	2009-10-08	2009-10-08	false	 2	30	21
+dgreen	2009-10-02	2009-10-02	false	 1	1	1
+dgreen	2009-10-01	2009-10-01	false	 12	264	148
+dgreen	2009-10-01	2009-10-01	false	 7	128	3
+dgreen	2009-10-01	2009-10-01	false	 2	33	4
+dgreen	2009-10-01	2009-10-01	false	 1	6	0
+dgreen	2009-09-30	2009-09-30	false	 1	12	5
+dgreen	2009-09-30	2009-09-30	false	 1	8	1
+dgreen	2009-09-14	2009-09-14	false	 1	1	1
+dgreen	2009-09-14	2009-09-14	false	 2	168	0
+dgreen	2009-09-14	2009-09-14	false	 4	117	11
+dgreen	2009-09-14	2009-09-14	false	 2	46	5
+dgreen	2009-09-08	2009-09-08	false	 3	45	4
+dgreen	2009-09-08	2009-09-08	false	 10	280	3
+dgreen	2009-09-08	2009-09-08	false	 28	2084	1948
+spingel	2009-09-01	2009-09-01	false	 2	2	2
+spingel	2009-09-01	2009-09-01	false	 2	6	2
+dgreen	2009-08-31	2009-08-31	false	 1	4	0
+dgreen	2009-08-27	2009-08-27	false	 1	0	65
+dgreen	2009-08-27	2009-08-27	false	 3	71	2
+spingel	2009-08-18	2009-08-18	false	 16	18	18
+spingel	2009-08-13	2009-08-13	false	 18	58	58
+dgreen	2009-08-13	2009-08-13	false	 2	36	31
+spingel	2009-08-10	2009-08-10	false	 4	19	19
+spingel	2009-08-10	2009-08-10	false	 13	23	55
+spingel	2009-08-06	2009-08-06	false	 1	34	46
+spingel	2009-07-23	2009-07-23	false	 2	6	4
+spingel	2009-07-23	2009-07-23	false	 64	132	62
+spingel	2009-07-21	2009-07-21	false	 1	25	25
+spingel	2009-07-21	2009-07-21	false	 1	5	4
+dgreen	2009-07-16	2009-07-16	false	 2	17	12
+dgreen	2009-07-16	2009-07-16	false	 2	11	5
+dgreen	2009-07-15	2009-07-15	false	 1	4	1
+spingel	2009-06-27	2009-06-27	false	 18	18	18
+dgreen	2009-06-24	2009-06-24	false	 2	26	1
+dgreen	2009-06-23	2009-06-23	false	 3	123	22
+dgreen	2009-06-18	2009-06-18	false	 1	1	1
+dgreen	2009-06-18	2009-06-18	false	 1	0	1
+dgreen	2009-06-17	2009-06-17	false	 7	104	24
+dgreen	2009-06-17	2009-06-17	false	 1	4	0
+dgreen	2009-06-17	2009-06-17	false	 3	8	2
+spingel	2009-06-17	2009-06-17	false	 16	86	0
+spingel	2009-06-16	2009-06-16	false	 1	1	1
+spingel	2009-06-12	2009-06-12	false	 1	3	4
+dgreen	2009-06-10	2009-06-10	false	 7	67	121
+dgreen	2009-06-09	2009-06-09	false	 16	32	1
+dgreen	2009-06-09	2009-06-09	false	 2	4	2
+dgreen	2009-06-08	2009-06-08	false	 1	2	1
+dgreen	2009-06-08	2009-06-08	false	 1	20	5
+dgreen	2009-05-27	2009-05-27	false	 1	7	6
+dgreen	2009-05-26	2009-05-26	false	 1	1	0
+mkersten	2009-05-26	2009-05-26	false	 1	0	0
+dgreen	2009-05-26	2009-05-26	false	 3	53	2
+dgreen	2009-05-26	2009-05-26	false	 1	12	0
+dgreen	2009-05-20	2009-05-20	false	 3	45	9
+dgreen	2009-05-19	2009-05-19	false	 1	1	2
+dgreen	2009-05-14	2009-05-14	false	 3	53	26
+spingel	2009-05-14	2009-05-14	false	 1	1	1
+dgreen	2009-05-13	2009-05-13	false	 1	1	1
+spingel	2009-05-13	2009-05-13	false	 26	837	21
+dgreen	2009-05-13	2009-05-13	false	 1	2	0
+dgreen	2009-05-13	2009-05-13	false	 2	5	5
+dgreen	2009-05-13	2009-05-13	false	 1	0	31
+spingel	2009-05-12	2009-05-12	false	 15	60	30
+dgreen	2009-05-12	2009-05-12	false	 1	1	1
+dgreen	2009-05-11	2009-05-11	false	 16	87	78
+dgreen	2009-05-11	2009-05-11	false	 8	774	1
+dgreen	2009-05-11	2009-05-11	false	 1	5	0
+dgreen	2009-05-11	2009-05-11	false	 2	4	0
+dgreen	2009-05-11	2009-05-11	false	 1	8	2
+dgreen	2009-05-11	2009-05-11	false	 1	8	4
+dgreen	2009-05-10	2009-05-10	false	 2	29	4
+dgreen	2009-05-10	2009-05-10	false	 14	14	14
+dgreen	2009-05-06	2009-05-06	false	 2	17	1
+spingel	2009-05-05	2009-05-05	false	 2	1	1
+dgreen	2009-05-05	2009-05-05	false	 1	30	2
+dgreen	2009-05-05	2009-05-05	false	 1	22	4
+dgreen	2009-05-05	2009-05-05	false	 3	4	24
+dgreen	2009-05-05	2009-05-05	false	 2	16	2
+dgreen	2009-05-05	2009-05-05	false	 2	30	8
+dgreen	2009-05-05	2009-05-05	false	 6	34	20
+dgreen	2009-05-04	2009-05-04	false	 1	8	0
+dgreen	2009-05-04	2009-05-04	false	 7	167	153
+dgreen	2009-05-04	2009-05-04	false	 3	152	0
+dgreen	2009-05-01	2009-05-01	false	 2	39	39
+dgreen	2009-05-01	2009-05-01	false	 5	27	0
+dgreen	2009-05-01	2009-05-01	false	 1	1	0
+dgreen	2009-05-01	2009-05-01	false	 2	39	0
+dgreen	2009-05-01	2009-05-01	false	 3	26	13
+dgreen	2009-04-30	2009-04-30	false	 10	101	23
+dgreen	2009-04-30	2009-04-30	false	 1	11	0
+dgreen	2009-04-29	2009-04-29	false	 1	2	2
+dgreen	2009-04-29	2009-04-29	false	 1	14	1
+dgreen	2009-04-29	2009-04-29	false	 3	426	292
+dgreen	2009-04-29	2009-04-29	false	 1	1	0
+dgreen	2009-04-29	2009-04-29	false	 1	1	1
+dgreen	2009-04-29	2009-04-29	false	 1	174	7
+dgreen	2009-04-28	2009-04-28	false	 1	32	7
+dgreen	2009-04-25	2009-04-25	false	 1	1	0
+dgreen	2009-04-25	2009-04-25	false	 4	23	16
+spingel	2009-04-25	2009-04-25	false	 1	1	0
+dgreen	2009-04-24	2009-04-24	false	 4	111	46
+dgreen	2009-04-24	2009-04-24	false	 3	21	8
+dgreen	2009-04-24	2009-04-24	false	 1	1	1
+dgreen	2009-04-24	2009-04-24	false	 1	1	0
+dgreen	2009-04-24	2009-04-24	false	 3	11	3
+dgreen	2009-04-24	2009-04-24	false	 14	425	0
+dgreen	2009-04-23	2009-04-23	false	 1	32	0
+dgreen	2009-04-23	2009-04-23	false	 2	76	8
+dgreen	2009-04-22	2009-04-22	false	 3	97	2
+dgreen	2009-04-22	2009-04-22	false	 12	340	55
+dgreen	2009-04-22	2009-04-22	false	 2	17	4
+dgreen	2009-04-22	2009-04-22	false	 2	21	5
+dgreen	2009-04-21	2009-04-21	false	 3	40	3
+dgreen	2009-04-20	2009-04-20	false	 64	531	425
+dgreen	2009-04-20	2009-04-20	false	 2	35	1
+dgreen	2009-04-20	2009-04-20	false	 3	6	7
+dgreen	2009-04-20	2009-04-20	false	 4	55	43
+spingel	2009-04-15	2009-04-15	false	 2	2	2
+dgreen	2009-04-13	2009-04-13	false	 1	1	1
+dgreen	2009-04-13	2009-04-13	false	 1	6	1
+dgreen	2009-04-12	2009-04-12	false	 18	94	64
+dgreen	2009-04-12	2009-04-12	false	 1	1	1
+dgreen	2009-04-12	2009-04-12	false	 2	9	0
+spingel	2009-04-10	2009-04-10	false	 14	14	14
+dgreen	2009-04-10	2009-04-10	false	 2	10	7
+spingel	2009-04-09	2009-04-09	false	 0	0	0
+dgreen	2009-04-09	2009-04-09	false	 1	1	0
+dgreen	2009-04-09	2009-04-09	false	 1	7	0
+dgreen	2009-04-09	2009-04-09	false	 1	2	2
+dgreen	2009-04-09	2009-04-09	false	 1	3	0
+dgreen	2009-04-09	2009-04-09	false	 128	2059	1511
+dgreen	2009-04-04	2009-04-04	false	 1	66	9
+dgreen	2009-04-04	2009-04-04	false	 1	16	0
+dgreen	2009-04-03	2009-04-03	false	 3	34	0
+dgreen	2009-04-03	2009-04-03	false	 50	2508	1311
+dgreen	2009-04-03	2009-04-03	false	 1	2	0
+dgreen	2009-03-31	2009-03-31	false	 12	177	2
+dgreen	2009-03-31	2009-03-31	false	 1	21	16
+dgreen	2009-03-31	2009-03-31	false	 2	19	3
+dgreen	2009-03-30	2009-03-30	false	 1	5	0
+dgreen	2009-03-30	2009-03-30	false	 5	62	3
+dgreen	2009-03-30	2009-03-30	false	 1	12	12
+dgreen	2009-03-26	2009-03-26	false	 1	11	3
+dgreen	2009-03-26	2009-03-26	false	 1	3	1
+dgreen	2009-03-25	2009-03-25	false	 1	7	7
+dgreen	2009-03-24	2009-03-24	false	 1	4	3
+spingel	2009-03-24	2009-03-24	false	 15	55	55
+dgreen	2009-03-24	2009-03-24	false	 2	3	3
+dgreen	2009-03-24	2009-03-24	false	 1	1	1
+dgreen	2009-03-24	2009-03-24	false	 3	131	35
+dgreen	2009-03-23	2009-03-23	false	 1	2	1
+dgreen	2009-03-23	2009-03-23	false	 1	25	0
+dgreen	2009-03-23	2009-03-23	false	 10	562	477
+dgreen	2009-03-18	2009-03-18	false	 1	6	2
+dgreen	2009-03-18	2009-03-18	false	 3	39	1
+dgreen	2009-03-18	2009-03-18	false	 4	166	13
+dgreen	2009-03-18	2009-03-18	false	 1	8	3
+dgreen	2009-03-18	2009-03-18	false	 1	8	1
+dgreen	2009-03-18	2009-03-18	false	 1	1	0
+dgreen	2009-03-18	2009-03-18	false	 1	18	14
+dgreen	2009-03-11	2009-03-11	false	 1	2	2
+dgreen	2009-03-10	2009-03-10	false	 1	1	5
+dgreen	2009-03-09	2009-03-09	false	 2	4	1
+dgreen	2009-03-09	2009-03-09	false	 1	15	1
+dgreen	2009-03-08	2009-03-08	false	 1	103	1
+dgreen	2009-03-03	2009-03-03	false	 3	120	5
+dgreen	2009-03-03	2009-03-03	false	 5	26	6
+dgreen	2009-03-02	2009-03-02	false	 1	11	1
+dgreen	2009-03-02	2009-03-02	false	 1	8	0
+dgreen	2009-03-02	2009-03-02	false	 1	5	0
+dgreen	2009-02-26	2009-02-26	false	 15	55	55
+dgreen	2009-02-19	2009-02-19	false	 1	52	21
+dgreen	2009-02-19	2009-02-19	false	 5	253	71
+dgreen	2009-02-19	2009-02-19	false	 3	5	23
+dgreen	2009-02-18	2009-02-18	false	 2	115	77
+dgreen	2009-02-18	2009-02-18	false	 1	2	40
+dgreen	2009-02-18	2009-02-18	false	 2	79	9
+dgreen	2009-02-17	2009-02-17	false	 1	2	1
+dgreen	2009-02-16	2009-02-16	false	 2	7	7
+dgreen	2009-02-16	2009-02-16	false	 2	7	7
+dgreen	2009-02-16	2009-02-16	false	 1	24	16
+dgreen	2009-02-16	2009-02-16	false	 1	3	0
+dgreen	2009-02-16	2009-02-16	false	 1	1	0
+dgreen	2009-02-16	2009-02-16	false	 3	45	4
+dgreen	2009-02-16	2009-02-16	false	 2	14	2
+dgreen	2009-02-16	2009-02-16	false	 3	141	20
+dgreen	2009-02-16	2009-02-16	false	 4	20	3
+dgreen	2009-02-16	2009-02-16	false	 8	498	19
+dgreen	2009-02-16	2009-02-16	false	 1	21	0
+dgreen	2009-02-16	2009-02-16	false	 2	23	0
+dgreen	2009-02-15	2009-02-15	false	 3	8	2
+dgreen	2009-02-15	2009-02-15	false	 2	9	1
+dgreen	2009-02-15	2009-02-15	false	 18	21	21
+dgreen	2009-02-13	2009-02-13	false	 1	28	5
+dgreen	2009-02-13	2009-02-13	false	 2	8	1
+dgreen	2009-02-12	2009-02-12	false	 22	51	20
+dgreen	2009-02-12	2009-02-12	false	 1	3	3
+dgreen	2009-02-12	2009-02-12	false	 4	2	2
+dgreen	2009-02-12	2009-02-12	false	 1	3	0
+dgreen	2009-02-12	2009-02-12	false	 1	1	0
+dgreen	2009-02-12	2009-02-12	false	 2	8	0
+dgreen	2009-02-12	2009-02-12	false	 1	2	1
+dgreen	2009-02-12	2009-02-12	false	 10	216	55
+dgreen	2009-02-12	2009-02-12	false	 2	22	1
+dgreen	2009-02-11	2009-02-11	false	 1	0	0
+dgreen	2009-02-11	2009-02-11	false	 2	21	8
+dgreen	2009-02-11	2009-02-11	false	 5	179	0
+dgreen	2009-02-10	2009-02-10	false	 2	4	6
+dgreen	2009-02-10	2009-02-10	false	 1	1	1
+dgreen	2009-02-10	2009-02-10	false	 2	7	1
+dgreen	2009-02-09	2009-02-09	false	 4	75	2
+dgreen	2009-02-09	2009-02-09	false	 3	4	2
+dgreen	2009-02-09	2009-02-09	false	 7	72	1
+dgreen	2009-02-08	2009-02-08	false	 2	14	1
+dgreen	2009-02-08	2009-02-08	false	 5	97	15
+dgreen	2009-02-08	2009-02-08	false	 2	76	0
+dgreen	2009-02-08	2009-02-08	false	 2	23	10
+dgreen	2009-02-06	2009-02-06	false	 4	259	9
+dgreen	2009-02-06	2009-02-06	false	 1	1	0
+dgreen	2009-02-06	2009-02-06	false	 1	27	0
+dgreen	2009-02-06	2009-02-06	false	 5	44	2
+dgreen	2009-02-06	2009-02-06	false	 1	3	0
+dgreen	2009-02-05	2009-02-05	false	 3	62	17
+dgreen	2009-02-05	2009-02-05	false	 1	15	5
+dgreen	2009-02-05	2009-02-05	false	 1	1	0
+dgreen	2009-02-05	2009-02-05	false	 1	6	3
+dgreen	2009-02-05	2009-02-05	false	 1	6	1
+dgreen	2009-02-04	2009-02-04	false	 2	9	2
+dgreen	2009-02-04	2009-02-04	false	 1	1	0
+dgreen	2009-02-04	2009-02-04	false	 1	10	0
+dgreen	2009-02-04	2009-02-04	false	 1	10	4
+dgreen	2009-02-04	2009-02-04	false	 1	1	1
+dgreen	2009-02-03	2009-02-03	false	 2	10	2
+dgreen	2009-02-03	2009-02-03	false	 7	261	10
+dgreen	2009-02-03	2009-02-03	false	 3	36	8
+dgreen	2009-02-03	2009-02-03	false	 2	50	4
+dgreen	2009-02-02	2009-02-02	false	 12	79	226
+dgreen	2009-02-02	2009-02-02	false	 1	0	2
+dgreen	2009-02-02	2009-02-02	false	 45	1113	885
+dgreen	2009-02-02	2009-02-02	false	 3	5	5
+dgreen	2009-02-02	2009-02-02	false	 4	150	35
+dgreen	2009-02-01	2009-02-01	false	 2	7	1
+dgreen	2009-02-01	2009-02-01	false	 1	5	1
+dgreen	2009-02-01	2009-02-01	false	 1	31	4
+dgreen	2009-02-01	2009-02-01	false	 2	6	6
+dgreen	2009-02-01	2009-02-01	false	 3	113	11
+dgreen	2009-01-31	2009-01-31	false	 1	7	0
+dgreen	2009-01-31	2009-01-31	false	 2	58	8
+dgreen	2009-01-31	2009-01-31	false	 1	4	0
+dgreen	2009-01-31	2009-01-31	false	 22	983	2
+dgreen	2009-01-29	2009-01-29	false	 6	177	11
+dgreen	2009-01-28	2009-01-28	false	 6	16	8
+dgreen	2009-01-27	2009-01-27	false	 5	297	99
+dgreen	2009-01-27	2009-01-27	false	 1	1	1
+dgreen	2009-01-26	2009-01-26	false	 45	81	81
+dgreen	2009-01-26	2009-01-26	false	 1	1	0
+dgreen	2009-01-26	2009-01-26	false	 1	6	0
+dgreen	2009-01-26	2009-01-26	false	 1	1	1
+dgreen	2009-01-26	2009-01-26	false	 2	42	4
+dgreen	2009-01-26	2009-01-26	false	 9	590	1
+dgreen	2009-01-26	2009-01-26	false	 7	26	23
+dgreen	2009-01-25	2009-01-25	false	 2	4	1
+dgreen	2009-01-25	2009-01-25	false	 2	4	3
+dgreen	2009-01-23	2009-01-23	false	 21	1273	175
+dgreen	2009-01-23	2009-01-23	false	 2	5	3
+dgreen	2009-01-23	2009-01-23	false	 3	38	4
+dgreen	2009-01-22	2009-01-22	false	 2	2	2
+dgreen	2009-01-22	2009-01-22	false	 1	17	1
+dgreen	2009-01-22	2009-01-22	false	 1	54	1
+dgreen	2009-01-22	2009-01-22	false	 2	10	3
+dgreen	2009-01-22	2009-01-22	false	 4	20	0
+dgreen	2009-01-22	2009-01-22	false	 4	54	35
+dgreen	2009-01-22	2009-01-22	false	 1	64	13
+dgreen	2009-01-21	2009-01-21	false	 1	1	1
+dgreen	2009-01-21	2009-01-21	false	 16	729	4
+dgreen	2009-01-20	2009-01-20	false	 3	126	2
+dgreen	2009-01-19	2009-01-19	false	 12	1026	3
+dgreen	2009-01-19	2009-01-19	false	 1	30	0
+dgreen	2009-01-16	2009-01-16	false	 2	0	0
+dgreen	2009-01-15	2009-01-15	false	 1	18	16
+dgreen	2009-01-15	2009-01-15	false	 2	69	1
+dgreen	2009-01-15	2009-01-15	false	 8	201	110
+dgreen	2009-01-15	2009-01-15	false	 1	1	0
+dgreen	2009-01-15	2009-01-15	false	 1	2	2
+dgreen	2009-01-15	2009-01-15	false	 93	432	78
+dgreen	2009-01-15	2009-01-15	false	 81	101	81
+dgreen	2009-01-15	2009-01-15	false	 1	0	0
+dgreen	2009-01-15	2009-01-15	false	 5	378	27
+dgreen	2009-01-14	2009-01-14	false	 1	0	32
+dgreen	2009-01-14	2009-01-14	false	 1	1	0
+dgreen	2009-01-13	2009-01-13	false	 3	61	2
+dgreen	2009-01-13	2009-01-13	false	 1	14	0
+dgreen	2009-01-12	2009-01-12	false	 1	24	0
+dgreen	2009-01-12	2009-01-12	false	 1	1	1
+dgreen	2009-01-12	2009-01-12	false	 8	472	18
+dgreen	2009-01-12	2009-01-12	false	 1	27	0
+dgreen	2009-01-12	2009-01-12	false	 1	3	0
+dgreen	2009-01-12	2009-01-12	false	 1	0	28
+dgreen	2009-01-12	2009-01-12	false	 1	24	0
+dgreen	2009-01-12	2009-01-12	false	 1	7	2
+dgreen	2009-01-12	2009-01-12	false	 1	21	2
+spingel	2009-01-11	2009-01-11	false	 1	1	0
+dgreen	2009-01-11	2009-01-11	false	 1	1	1
+dgreen	2009-01-08	2009-01-08	false	 75	89	0
+dgreen	2009-01-08	2009-01-08	false	 27	610	497
+dgreen	2009-01-08	2009-01-08	false	 3	3	3
+dgreen	2009-01-08	2009-01-08	false	 2	9	9
+dgreen	2009-01-08	2009-01-08	false	 2	16	3
+dgreen	2009-01-08	2009-01-08	false	 13	188	1
+dgreen	2009-01-08	2009-01-08	false	 1	1	1
+dgreen	2009-01-08	2009-01-08	false	 2	27	18
+dgreen	2009-01-07	2009-01-07	false	 1	1	2
+dgreen	2009-01-07	2009-01-07	false	 3	16	5
+dgreen	2009-01-07	2009-01-07	false	 3	248	2
+dgreen	2009-01-06	2009-01-06	false	 5	104	4
+dgreen	2009-01-06	2009-01-06	false	 1	1	1
+dgreen	2009-01-06	2009-01-06	false	 5	93	8
+dgreen	2009-01-06	2009-01-06	false	 2	7	4
+dgreen	2009-01-06	2009-01-06	false	 1	1	0
+dgreen	2009-01-06	2009-01-06	false	 1	5	2
+dgreen	2009-01-06	2009-01-06	false	 2	8	0
+dgreen	2009-01-06	2009-01-06	false	 10	118	22
+dgreen	2009-01-06	2009-01-06	false	 2	57	3
+dgreen	2009-01-06	2009-01-06	false	 2	0	55
+dgreen	2009-01-06	2009-01-06	false	 6	226	39
+dgreen	2009-01-02	2009-01-02	false	 1	2	38
+dgreen	2009-01-02	2009-01-02	false	 34	189	21
+dgreen	2008-12-17	2008-12-17	false	 1	4	2
+spingel	2008-12-11	2008-12-11	false	 1	2	0
+dgreen	2008-12-09	2008-12-09	false	 1	30	1
+dgreen	2008-12-09	2008-12-09	false	 13	676	6
+dgreen	2008-12-09	2008-12-09	false	 3	59	3
+dgreen	2008-12-08	2008-12-08	false	 1	1	1
+dgreen	2008-12-08	2008-12-08	false	 4	164	3
+dgreen	2008-12-07	2008-12-07	false	 7	19	0
+dgreen	2008-12-07	2008-12-07	false	 1	2	2
+dgreen	2008-12-04	2008-12-04	false	 1	51	0
+dgreen	2008-12-04	2008-12-04	false	 1	2	1
+dgreen	2008-12-04	2008-12-04	false	 13	13	13
+dgreen	2008-12-04	2008-12-04	false	 5	5	4
+dgreen	2008-12-04	2008-12-04	false	 15	54	54
+dgreen	2008-12-04	2008-12-04	false	 11	22	10
+dgreen	2008-12-04	2008-12-04	false	 21	1188	0
+dgreen	2008-12-04	2008-12-04	false	 82	389	1011
+spingel	2008-12-01	2008-12-01	false	 1	10	10
+dgreen	2008-12-01	2008-12-01	false	 1	4	0
+spingel	2008-11-27	2008-11-27	false	 2	2	0
+dgreen	2008-11-27	2008-11-27	false	 1	3	4
+dgreen	2008-11-26	2008-11-26	false	 1	30	8
+dgreen	2008-11-21	2008-11-21	false	 11	3	22
+dgreen	2008-11-21	2008-11-21	false	 28	437	83
+dgreen	2008-11-21	2008-11-21	false	 5	426	117
+dgreen	2008-11-20	2008-11-20	false	 6	193	42
+dgreen	2008-11-20	2008-11-20	false	 1	6	1
+dgreen	2008-11-20	2008-11-20	false	 6	230	5
+dgreen	2008-11-19	2008-11-19	false	 1	2	5
+dgreen	2008-11-19	2008-11-19	false	 3	226	0
+dgreen	2008-11-19	2008-11-19	false	 1	358	1
+dgreen	2008-11-19	2008-11-19	false	 4	4	3
+dgreen	2008-11-17	2008-11-17	false	 2	22	1
+dgreen	2008-11-17	2008-11-17	false	 5	251	1
+dgreen	2008-11-14	2008-11-14	false	 2	2	2
+dgreen	2008-11-14	2008-11-14	false	 12	31	26
+dgreen	2008-11-13	2008-11-13	false	 4	42	7
+dgreen	2008-11-13	2008-11-13	false	 1	1	1
+dgreen	2008-11-13	2008-11-13	false	 8	13	1
+dgreen	2008-11-13	2008-11-13	false	 1	37	0
+dgreen	2008-11-13	2008-11-13	false	 3	21	11
+dgreen	2008-11-13	2008-11-13	false	 3	6	3
+dgreen	2008-11-13	2008-11-13	false	 1	15	0
+dgreen	2008-11-13	2008-11-13	false	 1	3	6
+dgreen	2008-11-12	2008-11-12	false	 11	3	242
+dgreen	2008-11-12	2008-11-12	false	 1	0	17
+dgreen	2008-11-12	2008-11-12	false	 1	9	0
+dgreen	2008-11-12	2008-11-12	false	 22	22	22
+dgreen	2008-11-12	2008-11-12	false	 8	75	10
+dgreen	2008-11-12	2008-11-12	false	 20	540	10
+spingel	2008-11-11	2008-11-11	false	 1	2	0
+dgreen	2008-11-11	2008-11-11	false	 1	4	92
+spingel	2008-11-11	2008-11-11	false	 5	417	48
+spingel	2008-11-10	2008-11-10	false	 14	14	14
+dgreen	2008-11-09	2008-11-09	false	 1	2	1
+dgreen	2008-11-07	2008-11-07	false	 1	1	1
+dgreen	2008-11-07	2008-11-07	false	 2	31	1
+spingel	2008-11-06	2008-11-06	false	 1	11	0
+dgreen	2008-11-06	2008-11-06	false	 4	208	2
+dgreen	2008-11-06	2008-11-06	false	 8	424	71
+dgreen	2008-11-05	2008-11-05	false	 1	1	1
+dgreen	2008-11-05	2008-11-05	false	 1	44	0
+dgreen	2008-11-05	2008-11-05	false	 1	1	1
+dgreen	2008-11-03	2008-11-03	false	 3	41	41
+dgreen	2008-11-03	2008-11-03	false	 1	1	1
+dgreen	2008-11-03	2008-11-03	false	 7	498	43
+dgreen	2008-11-03	2008-11-03	false	 1	3	0
+dgreen	2008-11-03	2008-11-03	false	 1	6	3
+dgreen	2008-10-31	2008-10-31	false	 10	1326	8
+dgreen	2008-10-28	2008-10-28	false	 70	1120	535
+dgreen	2008-10-28	2008-10-28	false	 141	1267	816
+dgreen	2008-10-28	2008-10-28	false	 3	76	11
+dgreen	2008-10-27	2008-10-27	false	 13	161	75
+dgreen	2008-10-27	2008-10-27	false	 1	1	1
+dgreen	2008-10-27	2008-10-27	false	 2	91	37
+dgreen	2008-10-27	2008-10-27	false	 3	62	18
+dgreen	2008-10-27	2008-10-27	false	 6	80	21
+dgreen	2008-10-26	2008-10-26	false	 2	12	1
+dgreen	2008-10-26	2008-10-26	false	 2	13	1
+dgreen	2008-10-26	2008-10-26	false	 2	8	1
+dgreen	2008-10-24	2008-10-24	false	 1	0	0
+dgreen	2008-10-24	2008-10-24	false	 2	1	1
+dgreen	2008-10-22	2008-10-22	false	 1	7	1
+dgreen	2008-10-22	2008-10-22	false	 1	9	19
+dgreen	2008-10-21	2008-10-21	false	 2	261	3
+dgreen	2008-10-17	2008-10-17	false	 1	8	1
+spingel	2008-10-16	2008-10-16	false	 6	6	6
+spingel	2008-10-15	2008-10-15	false	 1	3	1
+dgreen	2008-10-09	2008-10-09	false	 1	1	1
+spingel	2008-10-09	2008-10-09	false	 1	6	5
+dgreen	2008-10-08	2008-10-08	false	 5	41	8
+dgreen	2008-10-07	2008-10-07	false	 2	27	3
+dgreen	2008-10-07	2008-10-07	false	 2	5	5
+dgreen	2008-10-06	2008-10-06	false	 1	14	12
+dgreen	2008-10-06	2008-10-06	false	 1	56	0
+dgreen	2008-10-06	2008-10-06	false	 3	4	2
+dgreen	2008-10-06	2008-10-06	false	 4	60	1
+dgreen	2008-10-06	2008-10-06	false	 1	1	1
+dgreen	2008-10-03	2008-10-03	false	 3	22	14
+dgreen	2008-10-03	2008-10-03	false	 6	233	11
+dgreen	2008-10-03	2008-10-03	false	 2	13	5
+dgreen	2008-10-03	2008-10-03	false	 2	72	1
+dgreen	2008-10-02	2008-10-02	false	 6	270	32
+spingel	2008-10-02	2008-10-02	false	 1	2	1
+spingel	2008-10-02	2008-10-02	false	 1	2	0
+dgreen	2008-10-02	2008-10-02	false	 3	160	0
+spingel	2008-10-01	2008-10-01	false	 10	858	0
+dgreen	2008-10-01	2008-10-01	false	 2	47	23
+dgreen	2008-10-01	2008-10-01	false	 1	1	295
+dgreen	2008-10-01	2008-10-01	false	 2	14	2
+dgreen	2008-10-01	2008-10-01	false	 1	41	0
+dgreen	2008-10-01	2008-10-01	false	 1	2	0
+dgreen	2008-10-01	2008-10-01	false	 2	35	32
+dgreen	2008-10-01	2008-10-01	false	 1	1	1
+dgreen	2008-10-01	2008-10-01	false	 1	3	1
+dgreen	2008-10-01	2008-10-01	false	 1	7	7
+dgreen	2008-10-01	2008-10-01	false	 1	7	7
+dgreen	2008-09-30	2008-09-30	false	 2	56	1
+dgreen	2008-09-30	2008-09-30	false	 1	0	2
+dgreen	2008-09-30	2008-09-30	false	 26	1673	5
+spingel	2008-09-30	2008-09-30	false	 16	238	0
+dgreen	2008-09-30	2008-09-30	false	 2	27	0
+spingel	2008-09-29	2008-09-29	false	 2	1	1
+dgreen	2008-09-29	2008-09-29	false	 1	35	27
+dgreen	2008-09-28	2008-09-28	false	 1	1	0
+dgreen	2008-09-28	2008-09-28	false	 1	12	0
+dgreen	2008-09-28	2008-09-28	false	 1	21	2
+dgreen	2008-09-28	2008-09-28	false	 1	2	1
+dgreen	2008-09-28	2008-09-28	false	 4	162	8
+dgreen	2008-09-28	2008-09-28	false	 1	1	1
+dgreen	2008-09-26	2008-09-26	false	 1	70	34
+dgreen	2008-09-25	2008-09-25	false	 10	1	17
+dgreen	2008-09-25	2008-09-25	false	 1	14	4
+dgreen	2008-09-25	2008-09-25	false	 3	28	3
+dgreen	2008-09-25	2008-09-25	false	 3	53	20
+dgreen	2008-09-25	2008-09-25	false	 27	112	31
+dgreen	2008-09-25	2008-09-25	false	 9	93	9
+dgreen	2008-09-25	2008-09-25	false	 7	775	5
+dgreen	2008-09-25	2008-09-25	false	 16	305	302
+dgreen	2008-09-25	2008-09-25	false	 1	22	1
+mkersten	2008-09-17	2008-09-17	false	 1	1	1
+spingel	2008-09-13	2008-09-13	false	 11	22	22
+spingel	2008-09-12	2008-09-12	false	 3	3	18
+spingel	2008-09-12	2008-09-12	false	 6	78	5
+spingel	2008-09-12	2008-09-12	false	 6	134	5
+spingel	2008-09-12	2008-09-12	false	 3	79	25
+spingel	2008-09-12	2008-09-12	false	 2	2	0
+spingel	2008-09-12	2008-09-12	false	 8	69	6
+spingel	2008-09-12	2008-09-12	false	 2	3	3
+spingel	2008-09-12	2008-09-12	false	 7	63	28
+spingel	2008-09-11	2008-09-11	false	 1	283	1
+spingel	2008-08-16	2008-08-16	false	 1	2	1
+spingel	2008-08-15	2008-08-15	false	 5	5	3
+spingel	2008-08-14	2008-08-14	false	 4	26	4
+spingel	2008-08-14	2008-08-14	false	 2	16	1
+spingel	2008-08-14	2008-08-14	false	 2	22	0
+spingel	2008-08-14	2008-08-14	false	 2	44	18
+spingel	2008-08-14	2008-08-14	false	 4	58	3
+spingel	2008-08-14	2008-08-14	false	 1	1	99
+spingel	2008-08-14	2008-08-14	false	 8	40	4
+spingel	2008-08-14	2008-08-14	false	 1	1	275
+spingel	2008-08-14	2008-08-14	false	 1	26	4
+spingel	2008-08-13	2008-08-13	false	 1	4	2
+spingel	2008-08-13	2008-08-13	false	 12	42	42
+spingel	2008-08-13	2008-08-13	false	 3	13	1
+spingel	2008-08-13	2008-08-13	false	 4	7	4
+spingel	2008-08-12	2008-08-12	false	 1	2	2
+spingel	2008-08-12	2008-08-12	false	 6	173	35
+spingel	2008-08-12	2008-08-12	false	 2	43	1
+spingel	2008-08-12	2008-08-12	false	 12	52	47
+spingel	2008-08-12	2008-08-12	false	 2	18	4
+spingel	2008-08-12	2008-08-12	false	 11	33	22
+spingel	2008-08-12	2008-08-12	false	 15	115	117
+spingel	2008-08-12	2008-08-12	false	 204	2302	2111
+spingel	2008-08-12	2008-08-12	false	 62	1501	1388
+spingel	2008-08-12	2008-08-12	false	 1	2	2
+spingel	2008-08-12	2008-08-12	false	 2	28	2
+spingel	2008-08-12	2008-08-12	false	 4	128	32
+spingel	2008-08-12	2008-08-12	false	 2	128	144
+spingel	2008-08-12	2008-08-12	false	 3	182	131
+spingel	2008-08-12	2008-08-12	false	 2	29	27
+spingel	2008-08-12	2008-08-12	false	 1	62	59
+spingel	2008-08-12	2008-08-12	false	 2	78	43
+spingel	2008-08-12	2008-08-12	false	 21	841	217
+spingel	2008-08-05	2008-08-05	false	 1	40	51
+spingel	2008-08-05	2008-08-05	false	 1	1	1
+spingel	2008-08-05	2008-08-05	false	 2	6	4
+spingel	2008-08-02	2008-08-02	false	 0	0	0
+spingel	2008-08-02	2008-08-02	false	 1	1	1
+spingel	2008-08-02	2008-08-02	false	 1	1	1
+spingel	2008-08-02	2008-08-02	false	 4	64	0
+spingel	2008-08-02	2008-08-02	false	 4	62	62
+spingel	2008-07-31	2008-07-31	false	 12	38	10
+spingel	2008-07-31	2008-07-31	false	 58	4651	14
+spingel	2008-07-31	2008-07-31	false	 346	32425	0

@@ -1,0 +1,474 @@
+Miles Parker	2012-12-19	2012-12-06	true	 4	37	3
+Steffen Pingel	2012-12-12	2012-12-12	true	 42	2040	2182
+Gerrit Code Review @ Eclipse.org	2012-12-11	2012-12-06	true	 2	8	2
+Gerrit Code Review @ Eclipse.org	2012-12-08	2012-12-02	true	 1	1	1
+Steffen Pingel	2012-12-08	2012-11-25	true	 1	3	3
+Miles Parker	2012-12-07	2012-12-06	true	 2	29	5
+Frank Becker	2012-11-21	2012-11-21	true	 5	58	18
+Steffen Pingel	2012-11-09	2012-11-08	true	 7	252	2
+Steffen Pingel	2012-11-09	2012-11-08	true	 2	59	16
+Steffen Pingel	2012-11-09	2012-11-09	true	 3	14	10
+Steffen Pingel	2012-11-09	2012-11-09	true	 6	74	68
+Steffen Pingel	2012-11-07	2012-11-07	true	 8	338	37
+Steffen Pingel	2012-11-05	2012-11-04	true	 15	377	0
+Steffen Pingel	2012-11-02	2012-10-31	true	 5	189	0
+Steffen Pingel	2012-11-02	2012-10-31	true	 5	17	9
+Miles Parker	2012-11-01	2012-10-22	true	 8	194	76
+Miles Parker	2012-10-25	2012-10-25	true	 22	803	115
+Kilian Matt	2012-10-24	2012-10-15	true	 1	1	1
+Miles Parker	2012-10-16	2012-09-28	true	 13	193	31
+Steffen Pingel	2012-10-15	2012-10-15	true	 1	2	0
+Miles Parker	2012-09-27	2012-09-27	true	 12	100	328
+Miles Parker	2012-09-21	2012-09-20	true	 3	117	3
+Miles Parker	2012-09-21	2012-09-19	true	 1	3	4
+Kilian Matt	2012-09-19	2012-07-29	true	 4	212	65
+Kilian Matt	2012-09-19	2012-07-20	true	 2	13	5
+Kilian Matt	2012-09-19	2012-07-11	true	 20	458	155
+Steffen Pingel	2012-09-11	2012-09-11	true	 3	185	0
+Steffen Pingel	2012-09-11	2012-09-11	true	 1	3	1
+Steffen Pingel	2012-09-07	2012-09-07	true	 4	130	8
+Steffen Pingel	2012-09-06	2012-09-06	false	 21	32	20
+Steffen Pingel	2012-07-25	2012-07-25	true	 2	28	6
+Steffen Pingel	2012-07-20	2012-07-20	true	 2	47	3
+Steffen Pingel	2012-07-18	2012-07-18	false	 1	4	0
+Steffen Pingel	2012-07-04	2012-07-04	false	 42	63	63
+Kilian Matt	2012-07-03	2012-06-13	true	 27	1010	59
+Kilian Matt	2012-07-03	2012-06-20	true	 4	73	62
+Steffen Pingel	2012-07-02	2012-07-02	true	 1	4	1
+Steffen Pingel	2012-06-05	2012-06-05	false	 2	3	3
+Steffen Pingel	2012-06-05	2012-06-05	true	 3	100	9
+Steffen Pingel	2012-06-05	2012-06-05	false	 1	1	1
+Steffen Pingel	2012-06-04	2012-06-04	true	 1	1	2
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	4	2
+Steffen Pingel	2012-06-04	2012-06-04	false	 2	0	2
+Steffen Pingel	2012-06-04	2012-06-04	false	 10	35	35
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	6	2
+Steffen Pingel	2012-06-04	2012-06-04	false	 15	15	15
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	1	1
+Steffen Pingel	2012-05-24	2012-05-24	true	 2	7	5
+Steffen Pingel	2012-05-23	2012-05-23	false	 1	2	2
+Steffen Pingel	2012-05-15	2012-05-15	true	 4	10	5
+Steffen Pingel	2012-05-09	2012-05-09	false	 1	61	61
+Steffen Pingel	2012-04-16	2012-04-16	true	 1	3	2
+Steffen Pingel	2012-04-13	2012-04-13	true	 5	175	82
+Kilian Matt	2012-04-05	2012-04-05	false	 1	1	1
+Kilian Matt	2012-04-05	2012-04-05	false	 1	3	2
+Steffen Pingel	2012-03-22	2012-03-22	true	 4	5	7
+Steffen Pingel	2012-03-22	2012-03-22	true	 38	59	59
+Steffen Pingel	2012-03-16	2012-03-16	true	 1	4	2
+Steffen Pingel	2012-03-16	2012-03-16	false	 1	1	1
+Steffen Pingel	2012-03-10	2012-03-10	true	 1	7	1
+Steffen Pingel	2012-03-07	2012-03-07	true	 1	1	1
+Steffen Pingel	2012-03-03	2012-03-03	true	 3	11	9
+Steffen Pingel	2012-03-02	2012-03-02	true	 1	2	1
+Steffen Pingel	2012-03-01	2012-03-01	false	 3	0	102
+Steffen Pingel	2012-03-01	2012-03-01	true	 1	20	18
+Steffen Pingel	2012-03-01	2012-03-01	true	 5	71	62
+Sascha Scholz	2012-02-28	2012-02-28	false	 1	1	1
+Sascha Scholz	2012-02-28	2012-02-28	false	 2	16	16
+Steffen Pingel	2012-02-27	2012-02-27	false	 1	4	0
+Steffen Pingel	2012-02-25	2012-02-25	true	 16	655	0
+Sascha Scholz	2012-02-22	2012-02-22	false	 3	8	6
+Sascha Scholz	2012-02-17	2012-02-17	true	 1	6	5
+Steffen Pingel	2012-02-17	2012-02-17	false	 4	4	4
+Steffen Pingel	2012-02-17	2012-02-17	false	 7	14	5
+Sascha Scholz	2012-02-16	2012-02-16	true	 1	41	41
+Sascha Scholz	2012-02-16	2012-02-16	true	 15	710	26
+Sascha Scholz	2012-02-16	2012-02-16	true	 1	13	13
+Steffen Pingel	2012-02-16	2012-02-16	false	 2	7	0
+Steffen Pingel	2012-02-16	2012-02-16	true	 7	187	22
+Steffen Pingel	2012-02-16	2012-02-16	false	 3	49	7
+Steffen Pingel	2012-02-12	2012-02-12	false	 3	199	199
+Steffen Pingel	2012-02-12	2012-02-12	true	 37	1722	1367
+Steffen Pingel	2012-02-11	2012-02-11	true	 1	5	0
+Steffen Pingel	2012-02-10	2012-02-10	true	 4	61	14
+Steffen Pingel	2012-02-08	2012-02-08	false	 4	4	4
+Steffen Pingel	2012-02-08	2012-02-08	true	 1	0	26
+Steffen Pingel	2012-02-05	2012-02-05	true	 1	3	1
+Steffen Pingel	2012-02-04	2012-02-04	true	 2	16	6
+Steffen Pingel	2012-02-04	2012-02-04	true	 11	425	21
+Sascha Scholz	2012-02-03	2012-02-03	true	 1	6	1
+Sascha Scholz	2012-02-03	2012-02-03	true	 5	95	19
+Sascha Scholz	2012-02-03	2012-02-03	true	 2	12	6
+Sascha Scholz	2012-02-03	2012-02-03	true	 1	2	2
+Steffen Pingel	2012-02-02	2012-02-02	true	 1	0	1
+Steffen Pingel	2012-02-02	2012-02-02	true	 1	3	3
+Steffen Pingel	2012-02-02	2012-02-02	true	 2	8	5
+Steffen Pingel	2012-02-02	2012-02-02	false	 1	1	1
+Steffen Pingel	2012-02-02	2012-02-02	false	 1	18	1
+Steffen Pingel	2012-02-02	2012-02-02	false	 5	12	15
+Steffen Pingel	2012-02-02	2012-02-02	false	 1	6	2
+Steffen Pingel	2012-02-01	2012-02-01	false	 1	0	1
+Steffen Pingel	2012-02-01	2012-02-01	false	 1	12	3
+Steffen Pingel	2012-01-31	2012-01-31	true	 6	194	0
+Steffen Pingel	2012-01-31	2012-01-31	true	 7	203	69
+Steffen Pingel	2012-01-31	2012-01-31	false	 1	1	1
+Steffen Pingel	2012-01-30	2012-01-30	false	 2	16	21
+Steffen Pingel	2012-01-30	2012-01-30	true	 1	3	14
+Steffen Pingel	2012-01-28	2012-01-28	false	 1	0	1
+Steffen Pingel	2012-01-28	2012-01-28	false	 572	29510	29567
+Steffen Pingel	2012-01-28	2012-01-28	false	 2	0	2
+Steffen Pingel	2012-01-28	2012-01-27	true	 1	2	2
+Steffen Pingel	2012-01-28	2012-01-27	true	 2	76	71
+Steffen Pingel	2012-01-28	2012-01-27	false	 4	25	4
+Steffen Pingel	2012-01-14	2012-01-14	false	 1	0	4
+Steffen Pingel	2012-01-14	2012-01-14	false	 1	1	1
+Steffen Pingel	2011-12-27	2011-12-27	false	 1	5	0
+Steffen Pingel	2011-12-26	2011-12-26	false	 3	3	3
+sdubois	2011-12-20	2011-12-20	false	0	0	0
+Sascha Scholz	2011-12-20	2011-12-20	true	 1	6	3
+Sascha Scholz	2011-12-20	2011-12-20	true	 4	67	77
+Steffen Pingel	2011-12-17	2011-12-17	true	 2	8	8
+Steffen Pingel	2011-12-11	2011-12-11	false	 4	12	12
+Steffen Pingel	2011-12-11	2011-12-11	false	 1	5	0
+Sascha Scholz	2011-12-10	2011-12-10	true	 1	200	200
+Sascha Scholz	2011-12-10	2011-12-10	true	 1	3	1
+Steffen Pingel	2011-12-04	2011-12-03	true	 10	12	10
+Sascha Scholz	2011-11-24	2011-11-24	true	 9	228	13
+Sascha Scholz	2011-11-24	2011-11-18	true	 8	126	59
+Steffen Pingel	2011-11-24	2011-11-24	true	 24	997	988
+Steffen Pingel	2011-11-22	2011-11-22	true	 4	35	23
+Sascha Scholz	2011-11-09	2011-11-09	true	 5	10	53
+Steffen Pingel	2011-11-09	2011-11-09	true	 4	85	1
+Steffen Pingel	2011-11-09	2011-11-09	true	 3	4	4
+Steffen Pingel	2011-11-05	2011-11-05	false	 1	5	2
+Steffen Pingel	2011-11-05	2011-11-05	false	 8	104	252
+Sascha Scholz	2011-11-04	2011-10-20	true	 1	2	1
+Sascha Scholz	2011-10-20	2011-10-19	true	 5	290	149
+Steffen Pingel	2011-10-14	2011-10-14	false	 1	1	1
+Steffen Pingel	2011-10-14	2011-10-14	false	 1	2	2
+Steffen Pingel	2011-10-12	2011-10-12	false	 5	33	46
+Steffen Pingel	2011-10-12	2011-10-12	false	 1	13	5
+Sascha Scholz	2011-10-07	2011-10-07	false	 1	15	15
+Sascha Scholz	2011-10-07	2011-10-07	false	 1	200	200
+Steffen Pingel	2011-09-19	2011-09-19	false	 1	19	58
+aleon	2011-09-19	2011-09-16	false	 1	49	46
+Steffen Pingel	2011-09-19	2011-09-19	true	 6	465	404
+Steffen Pingel	2011-09-18	2011-09-18	true	 3	355	82
+Steffen Pingel	2011-09-13	2011-09-13	false	 35	3380	3365
+Steffen Pingel	2011-09-12	2011-09-12	true	 5	54	33
+Steffen Pingel	2011-09-11	2011-09-11	true	 1	0	4
+Steffen Pingel	2011-09-11	2011-09-11	true	 4	84	21
+Steffen Pingel	2011-09-11	2011-09-11	true	 1	21	16
+Steffen Pingel	2011-09-11	2011-09-11	true	 5	51	8
+Steffen Pingel	2011-09-11	2011-09-11	true	 2	42	13
+Steffen Pingel	2011-09-10	2011-09-10	true	 5	111	32
+Steffen Pingel	2011-09-09	2011-09-09	true	 7	203	31
+Steffen Pingel	2011-09-08	2011-09-08	false	 1	24	25
+Steffen Pingel	2011-09-08	2011-09-08	false	 1	1	1
+Steffen Pingel	2011-09-08	2011-09-08	false	 1	23	4
+Steffen Pingel	2011-09-08	2011-09-08	false	 1	32	30
+Steffen Pingel	2011-09-08	2011-09-08	false	 4	87	12
+Steffen Pingel	2011-09-07	2011-09-07	false	 1	1	1
+Steffen Pingel	2011-09-07	2011-09-07	false	 1	1	1
+Steffen Pingel	2011-09-07	2011-09-07	false	 1	1	1
+Steffen Pingel	2011-09-07	2011-09-07	false	 1	1	1
+Steffen Pingel	2011-09-07	2011-09-07	true	 39	1770	726
+Sascha Scholz	2011-09-06	2011-09-06	false	 1	1	0
+Sascha Scholz	2011-09-06	2011-09-06	false	 1	19	0
+Steffen Pingel	2011-09-06	2011-09-06	false	 7	367	365
+Sascha Scholz	2011-09-06	2011-09-06	false	 4	48	17
+Sascha Scholz	2011-09-06	2011-09-06	false	 6	6	0
+Sascha Scholz	2011-09-05	2011-09-05	false	 1	19	16
+Sascha Scholz	2011-09-05	2011-09-05	false	 4	26	16
+Sascha Scholz	2011-09-05	2011-09-05	false	 1	2	2
+Sascha Scholz	2011-09-05	2011-09-05	false	 4	26	0
+Sascha Scholz	2011-09-05	2011-09-05	false	 1	2	2
+Sascha Scholz	2011-09-05	2011-09-05	false	 1	4	4
+Sascha Scholz	2011-09-04	2011-09-04	false	 1	2	2
+Sascha Scholz	2011-09-04	2011-09-04	false	 4	16	12
+Steffen Pingel	2011-08-29	2011-08-29	false	 2	6	3
+Steffen Pingel	2011-08-28	2011-08-28	false	 2	3	4
+Steffen Pingel	2011-08-27	2011-08-27	false	 2	2	2
+Steffen Pingel	2011-08-24	2011-08-24	false	 1	2	1
+Steffen Pingel	2011-08-19	2011-08-19	false	 2	142	0
+Steffen Pingel	2011-08-19	2011-08-19	false	 13	558	0
+jbouthillie	2011-08-19	2011-08-19	false	0	0	0
+Steffen Pingel	2011-08-19	2011-08-19	false	 2	21	9
+Steffen Pingel	2011-08-17	2011-08-17	false	 2	3	3
+Steffen Pingel	2011-08-16	2011-08-16	false	 4	59	12
+Steffen Pingel	2011-08-16	2011-08-16	false	 1	1	1
+Steffen Pingel	2011-08-12	2011-08-12	false	 1	2	0
+Steffen Pingel	2011-08-12	2011-08-12	false	 1	12	3
+Sascha Scholz	2011-08-12	2011-08-12	false	 4	23	20
+Sascha Scholz	2011-08-12	2011-08-12	false	 2	7	7
+Sascha Scholz	2011-08-12	2011-08-12	false	 1	7	5
+Steffen Pingel	2011-07-28	2011-07-28	false	 1	1	1
+Steffen Pingel	2011-07-24	2011-07-24	false	 1	32	0
+Steffen Pingel	2011-07-20	2011-07-20	false	 8	8	0
+Steffen Pingel	2011-07-19	2011-07-19	false	 7	57	4
+Steffen Pingel	2011-07-13	2011-07-13	false	 2	16	0
+Steffen Pingel	2011-07-10	2011-07-10	false	 15	221	465
+Steffen Pingel	2011-07-01	2011-07-01	false	 1	2	2
+sdubois	2011-06-24	2011-06-24	false	0	0	0
+Jan Lohre	2011-06-24	2011-06-24	false	 1	29	30
+Steffen Pingel	2011-06-16	2011-06-16	false	 12	33	33
+Steffen Pingel	2011-06-16	2011-06-16	false	 35	44	44
+sdubois	2011-06-10	2011-06-10	false	0	0	0
+Steffen Pingel	2011-06-10	2011-06-10	false	 1	2	2
+aleon	2011-06-06	2011-06-06	false	 1	136	107
+Steffen Pingel	2011-06-04	2011-06-04	false	 2	3	2
+Sascha Scholz	2011-06-01	2011-05-31	true	 1	2	1
+Steffen Pingel	2011-05-30	2011-05-30	false	 1	2	2
+Steffen Pingel	2011-05-30	2011-05-30	false	 1	1	1
+Sascha Scholz	2011-05-29	2011-05-29	false	 2	47	6
+Steffen Pingel	2011-05-22	2011-05-22	false	 1	8	1
+Steffen Pingel	2011-05-22	2011-05-22	false	 4	43	29
+Steffen Pingel	2011-05-21	2011-05-21	false	 8	16	8
+Steffen Pingel	2011-05-18	2011-05-18	false	 1	1	1
+Steffen Pingel	2011-05-18	2011-05-18	false	 2	38	7
+Sascha Scholz	2011-05-16	2011-05-16	false	 2	4	10
+Sascha Scholz	2011-05-16	2011-05-16	false	 1	1	1
+Sascha Scholz	2011-05-16	2011-05-16	false	 1	3	3
+Sascha Scholz	2011-05-13	2011-05-13	false	 1	1	1
+Sascha Scholz	2011-05-13	2011-05-13	false	 1	2	4
+Jan Lohre	2011-05-09	2011-05-09	false	 2	2	0
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	7	7
+Sascha Scholz	2011-05-08	2011-05-08	false	 3	5	5
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	4	0
+Sascha Scholz	2011-05-08	2011-05-08	true	 2	13	0
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	200	0
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	2	2
+Sascha Scholz	2011-05-08	2011-05-08	false	 6	23	17
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	2	4
+Sascha Scholz	2011-05-08	2011-05-08	false	 1	7	6
+Steffen Pingel	2011-05-08	2011-05-08	false	 2	3	2
+Jan Lohre	2011-05-06	2011-05-06	false	 2	11	0
+sdubois	2011-05-06	2011-05-06	false	0	0	0
+Jan Lohre	2011-05-06	2011-05-06	false	 2	69	0
+Jan Lohre	2011-05-06	2011-05-06	false	 1	4	2
+Sascha Scholz	2011-05-05	2011-05-05	true	 2	42	42
+sdubois	2011-04-30	2011-04-30	false	0	0	0
+Steffen Pingel	2011-04-21	2011-04-21	false	 1	3	1
+sdubois	2011-04-15	2011-04-15	false	0	0	0
+sdubois	2011-04-15	2011-04-15	false	0	0	0
+Sascha Scholz	2011-04-15	2011-04-15	false	 1	1	1
+sdubois	2011-04-14	2011-04-14	false	0	0	0
+Kilian Matt	2011-04-14	2011-04-14	false	 6	10	9
+Kilian Matt	2011-04-14	2011-04-14	false	 23	606	38
+Kilian Matt	2011-04-14	2011-03-30	false	 18	5	77
+sdubois	2011-04-13	2011-04-13	false	0	0	0
+sdubois	2011-04-12	2011-04-12	false	0	0	0
+jbouthillie	2011-04-12	2011-04-12	false	0	0	0
+sdubois	2011-04-08	2011-04-08	false	0	0	0
+sdubois	2011-04-08	2011-04-08	false	0	0	0
+Steffen Pingel	2011-04-08	2011-04-08	false	 1	1	1
+sdubois	2011-04-06	2011-04-06	false	0	0	0
+Sascha Scholz	2011-04-05	2011-04-05	false	 11	268	268
+Sascha Scholz	2011-04-05	2011-04-05	true	 7	140	110
+sdubois	2011-04-05	2011-04-05	false	0	0	0
+sdubois	2011-04-04	2011-04-04	false	0	0	0
+Sascha Scholz	2011-04-04	2011-04-04	true	 1	2	1
+Sascha Scholz	2011-04-04	2011-04-04	true	 1	1	1
+Sascha Scholz	2011-04-02	2011-04-02	false	 1	1	1
+Sascha Scholz	2011-04-02	2011-04-02	true	 2	24	41
+sdubois	2011-03-30	2011-03-30	false	0	0	0
+Sascha Scholz	2011-03-30	2011-03-30	true	 1	1	1
+Sascha Scholz	2011-03-30	2011-03-30	false	 10	785	370
+sdubois	2011-03-28	2011-03-28	false	0	0	0
+Steffen Pingel	2011-03-27	2011-03-27	false	 1	1	1
+Steffen Pingel	2011-03-27	2011-03-27	false	 5	5	5
+Steffen Pingel	2011-03-26	2011-03-26	false	 6	52	198
+Steffen Pingel	2011-03-23	2011-03-23	false	 2	0	4
+sdubois	2011-03-21	2011-03-21	false	0	0	0
+sdubois	2011-03-21	2011-03-21	false	0	0	0
+Steffen Pingel	2011-03-20	2011-03-20	false	 1	1	1
+sdubois	2011-03-18	2011-03-18	false	0	0	0
+Steffen Pingel	2011-03-18	2011-03-18	false	 33	44	44
+sdubois	2011-03-18	2011-03-18	false	0	0	0
+sdubois	2011-03-18	2011-03-18	false	0	0	0
+Steffen Pingel	2011-03-18	2011-03-18	false	 1	11	5
+sdubois	2011-03-18	2011-03-18	false	0	0	0
+Steffen Pingel	2011-03-17	2011-02-22	false	 31	1497	619
+sdubois	2011-03-16	2011-03-16	false	0	0	0
+sdubois	2011-03-16	2011-03-16	false	0	0	0
+Steffen Pingel	2011-03-15	2011-03-15	false	 1	12	0
+sdubois	2011-03-15	2011-03-15	false	0	0	0
+sdubois	2011-03-15	2011-03-15	false	0	0	0
+aleon	2011-03-15	2011-03-15	false	0	0	0
+Kilian Matt	2011-03-15	2011-03-15	false	 4	6	11
+sdubois	2011-03-14	2011-03-14	false	0	0	0
+aleon	2011-03-13	2011-03-13	false	0	0	0
+aleon	2011-03-13	2011-03-13	false	0	0	0
+aleon	2011-03-13	2011-03-13	false	0	0	0
+Steffen Pingel	2011-03-12	2011-03-12	false	 2	3	3
+Steffen Pingel	2011-03-11	2011-03-11	false	 4	24	28
+Steffen Pingel	2011-03-11	2011-03-11	false	 4	24	28
+sdubois	2011-03-11	2011-03-11	false	0	0	0
+aleon	2011-03-10	2011-03-10	false	0	0	0
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	1	1
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	1	67
+aleon	2011-03-10	2011-03-10	false	0	0	0
+Steffen Pingel	2011-03-10	2011-03-10	false	 3	12	7
+Steffen Pingel	2011-03-10	2011-03-10	false	 2	18	16
+sdubois	2011-03-10	2011-03-10	false	0	0	0
+sdubois	2011-03-10	2011-03-10	false	0	0	0
+Kilian Matt	2011-03-10	2011-03-10	false	 44	580	579
+Kilian Matt	2011-03-10	2011-03-10	false	 22	0	2240
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	36	0
+Steffen Pingel	2011-03-10	2011-03-10	false	 8	47	44
+Steffen Pingel	2011-03-09	2011-03-09	false	 1	1	1
+Steffen Pingel	2011-03-09	2011-03-09	false	 1	0	12
+Steffen Pingel	2011-03-09	2011-03-09	false	 2	9	4
+Kilian Matt	2011-03-09	2011-03-09	false	 3	3	3
+aleon	2011-03-09	2011-03-09	false	0	0	0
+Kilian Matt	2011-03-09	2011-03-09	false	 1	2	0
+Kilian Matt	2011-03-09	2011-03-09	false	 1	3	4
+aleon	2011-03-09	2011-03-09	false	0	0	0
+Kilian Matt	2011-03-09	2011-03-09	false	 4	46	44
+Kilian Matt	2011-03-09	2011-03-09	false	 1	3	4
+Kilian Matt	2011-03-09	2011-03-09	false	 5	6	6
+Kilian Matt	2011-03-09	2011-03-09	false	 2	0	24
+Kilian Matt	2011-03-09	2011-03-09	false	 2	3	8
+Kilian Matt	2011-03-09	2011-03-07	false	 44	2846	0
+Kilian Matt	2011-03-09	2011-03-07	false	 27	4400	547
+Kilian Matt	2011-03-09	2011-03-07	false	 3	5	6
+Kilian Matt	2011-03-09	2011-02-06	false	 2	16	10
+Kilian Matt	2011-03-09	2011-02-06	false	 2	3	3
+Kilian Matt	2011-03-09	2011-02-06	false	 1	14	13
+Kilian Matt	2011-03-09	2011-02-06	false	 2	1	16
+Kilian Matt	2011-03-09	2011-01-20	false	 8	427	33
+Kilian Matt	2011-03-09	2011-03-09	false	0	0	0
+Steffen Pingel	2011-03-08	2011-03-08	false	 3	10	2
+Steffen Pingel	2011-03-08	2011-03-08	false	 14	0	1376
+aleon	2011-03-08	2011-03-08	false	0	0	0
+Kilian Matt	2011-03-06	2011-03-06	false	0	0	0
+Steffen Pingel	2011-03-04	2011-03-04	false	 4	16	15
+sdubois	2011-03-04	2011-03-04	false	0	0	0
+sdubois	2011-03-03	2011-03-03	false	0	0	0
+Steffen Pingel	2011-03-02	2011-03-02	false	 25	170	59
+sdubois	2011-03-02	2011-03-02	false	0	0	0
+sdubois	2011-03-01	2011-03-01	false	0	0	0
+Steffen Pingel	2011-02-25	2011-02-25	false	 1	1	1
+Steffen Pingel	2011-02-24	2011-02-24	false	 29	2310	33
+Steffen Pingel	2011-02-24	2011-02-24	false	 3	17	0
+Steffen Pingel	2011-02-24	2011-02-24	false	 3	23	6
+Steffen Pingel	2011-02-24	2011-02-24	false	 1	8	0
+Steffen Pingel	2011-02-23	2011-02-23	false	 3	3	3
+Steffen Pingel	2011-02-23	2011-02-23	false	 1	2	2
+Steffen Pingel	2011-02-23	2011-02-23	false	 3	0	93
+Steffen Pingel	2011-02-21	2011-02-21	false	 1	2	0
+Steffen Pingel	2011-02-21	2011-02-21	false	 1	3	3
+Steffen Pingel	2011-02-21	2011-02-20	false	 35	2386	476
+Steffen Pingel	2011-02-20	2011-02-20	false	 9	303	8
+Steffen Pingel	2011-02-15	2011-02-15	false	 3	3	3
+Steffen Pingel	2011-02-13	2011-02-13	false	 10	116	304
+Kilian Matt	2011-02-13	2011-02-13	false	0	0	0
+Steffen Pingel	2011-02-13	2011-02-13	false	 9	440	80
+Steffen Pingel	2011-02-12	2011-02-12	false	 3	49	8
+Steffen Pingel	2011-02-12	2011-02-12	false	 1	11	1
+Steffen Pingel	2011-02-12	2011-02-12	false	 1	2	2
+sdubois	2011-02-10	2011-02-10	false	0	0	0
+aleon	2011-02-09	2011-02-09	false	0	0	0
+sdubois	2011-02-08	2011-02-08	false	0	0	0
+Steffen Pingel	2011-02-08	2011-02-08	false	 1	2	1
+Steffen Pingel	2011-02-08	2011-02-08	false	 4	3	6
+Steffen Pingel	2011-02-08	2011-02-08	false	 2	4	0
+Kilian Matt	2011-02-08	2011-02-08	false	0	0	0
+Steffen Pingel	2011-02-07	2011-02-07	false	0	0	0
+Steffen Pingel	2011-02-07	2011-02-07	false	 5	5	5
+Kilian Matt	2011-02-06	2011-02-06	false	0	0	0
+Steffen Pingel	2011-02-05	2011-02-05	false	 2	24	0
+Steffen Pingel	2011-02-05	2011-02-05	false	 3	3	0
+Steffen Pingel	2011-02-05	2011-02-05	false	 155	15133	13674
+Steffen Pingel	2011-02-05	2011-02-05	false	 4	24	0
+Steffen Pingel	2011-02-05	2011-02-05	false	 5	22	3
+sdubois	2011-02-04	2011-02-04	false	0	0	0
+Kilian Matt	2011-02-03	2011-02-03	false	0	0	0
+aleon	2011-02-02	2011-02-02	false	0	0	0
+Steffen Pingel	2011-02-02	2011-02-02	false	 1	1	1
+Steffen Pingel	2011-02-02	2011-02-01	false	 1	1	1
+Kilian Matt	2011-01-31	2011-01-31	false	0	0	0
+Matthias Sohn	2011-01-30	2011-01-30	false	 1	5	1
+Kilian Matt	2011-01-27	2011-01-27	false	0	0	0
+Steffen Pingel	2011-01-24	2011-01-24	false	0	0	0
+Steffen Pingel	2011-01-24	2011-01-24	false	 3	3	3
+Steffen Pingel	2011-01-24	2011-01-24	false	 1	7	5
+Steffen Pingel	2011-01-24	2011-01-24	false	 3	9	9
+Steffen Pingel	2011-01-22	2011-01-22	false	 1	0	8
+Matthias Sohn	2011-01-20	2011-01-20	false	 1	13	3
+Kilian Matt	2011-01-20	2011-01-20	false	0	0	0
+Simon Kaufmann	2011-01-20	2011-01-20	false	 4	89	17
+Kilian Matt	2011-01-20	2011-01-20	false	 36	1583	1583
+Kilian Matt	2011-01-20	2011-01-19	false	 5	254	121
+Kilian Matt	2011-01-20	2011-01-18	false	 1	7	2
+Kilian Matt	2011-01-20	2011-01-18	false	 1	0	1
+Kilian Matt	2011-01-20	2011-01-18	false	 1	3	2
+Kilian Matt	2011-01-20	2011-01-17	false	 2	43	11
+Kilian Matt	2011-01-20	2011-01-17	false	 1	1	2
+Sascha Scholz	2011-01-20	2011-01-20	false	 4	11	20
+Sascha Scholz	2011-01-20	2011-01-20	false	 24	1156	1156
+Sascha Scholz	2011-01-20	2011-01-20	false	 15	148	163
+aleon	2011-01-20	2011-01-20	false	 1	2	0
+Steffen Pingel	2011-01-19	2011-01-19	false	 18	1299	0
+Sascha Scholz	2011-01-19	2011-01-19	false	 4	2	13
+Steffen Pingel	2011-01-18	2011-01-18	false	 1116	53	52784
+Steffen Pingel	2011-01-18	2011-01-18	false	 2	6	1
+Steffen Pingel	2011-01-17	2011-01-17	false	 3	8	4
+Steffen Pingel	2011-01-17	2011-01-17	false	 11	626	65
+Steffen Pingel	2011-01-17	2011-01-17	false	 16	250	33
+Steffen Pingel	2011-01-17	2011-01-17	false	 20	366	79
+Kilian Matt	2011-01-16	2011-01-16	false	0	0	0
+Kilian Matt	2011-01-16	2011-01-16	false	 11	64	66
+Kilian Matt	2011-01-16	2011-01-16	false	 7	111	66
+Kilian Matt	2011-01-16	2011-01-15	false	 1	70	60
+Kilian Matt	2011-01-16	2010-12-05	false	 157	4193	7004
+Steffen Pingel	2011-01-16	2011-01-16	false	 245	12546	1
+Steffen Pingel	2011-01-16	2011-01-16	false	 51	4322	4236
+Steffen Pingel	2011-01-16	2011-01-16	false	 13	397	352
+Steffen Pingel	2011-01-15	2011-01-15	false	 56	7259	255
+Steffen Pingel	2011-01-15	2011-01-13	false	 18	833	57
+Steffen Pingel	2011-01-15	2011-01-11	false	 3	153	0
+Steffen Pingel	2011-01-15	2011-01-10	false	 31	6330	1
+Steffen Pingel	2011-01-15	2011-01-15	false	 151	8812	3
+Steffen Pingel	2011-01-10	2011-01-10	false	 1	0	20
+Steffen Pingel	2011-01-10	2011-01-10	false	 4	57	4
+Steffen Pingel	2011-01-10	2011-01-10	false	 7	176	71
+Steffen Pingel	2011-01-08	2011-01-08	false	 16	749	985
+Steffen Pingel	2011-01-08	2011-01-08	false	 29	575	687
+Steffen Pingel	2011-01-08	2011-01-08	false	 27	275	897
+Steffen Pingel	2011-01-06	2011-01-06	false	 30	1478	125
+Steffen Pingel	2011-01-06	2011-01-06	false	 740	31477	0
+Steffen Pingel	2011-01-05	2011-01-05	false	 1	2	2
+Steffen Pingel	2011-01-05	2011-01-05	false	 3	81	35
+Steffen Pingel	2010-11-19	2010-11-19	false	 25	319	318
+Steffen Pingel	2010-10-22	2010-10-22	false	 37	1506	1481
+Steffen Pingel	2010-10-21	2010-10-21	false	 64	2976	3158
+Steffen Pingel	2010-10-21	2010-10-21	false	 56	3574	0
+Kilian Matt	2010-10-20	2010-10-20	false	 79	7028	0
+Kilian Matt	2010-10-20	2010-10-20	false	 79	0	7028
+Christoph Mayerhofer	2010-08-30	2010-08-30	false	 1	1	1
+Mario Bernhart	2010-08-17	2010-08-17	false	 1	1	1
+Kilian Matt	2010-08-16	2010-08-16	false	 1	29	2
+Kilian Matt	2010-08-16	2010-08-16	false	 1	9	7
+Kilian Matt	2010-08-16	2010-08-16	false	 3	9	8
+Kilian Matt	2010-08-16	2010-08-16	false	 1	1	1
+Kilian Matt	2010-08-16	2010-08-16	false	 1	41	66
+Kilian Matt	2010-08-16	2010-08-16	false	 1	8	4
+Kilian Matt	2010-08-16	2010-08-16	false	 3	18	7
+Kilian Matt	2010-08-16	2010-08-16	false	 1	3	0
+Kilian Matt	2010-08-16	2010-08-16	false	 2	52	12
+Kilian Matt	2010-08-16	2010-08-16	false	 1	20	11
+Kilian Matt	2010-08-16	2010-08-16	false	 1	2	0
+Kilian Matt	2010-08-16	2010-08-16	false	 1	0	1
+Kilian Matt	2010-08-16	2010-08-16	false	 1	25	4
+Kilian Matt	2010-08-16	2010-08-16	false	 2	60	22
+Kilian Matt	2010-08-16	2010-08-16	false	 1	2	2
+Kilian Matt	2010-08-16	2010-08-16	false	 2	35	27
+Kilian Matt	2010-08-13	2010-08-13	false	 5	57	32
+Kilian Matt	2010-08-12	2010-08-04	false	 17	441	562
+Kilian Matt	2010-08-04	2010-08-01	false	 14	308	490
+Kilian Matt	2010-07-28	2010-07-28	false	 1	0	1
+Kilian Matt	2010-07-28	2010-07-28	false	 2	24	0
+Kilian Matt	2010-07-28	2010-07-28	false	 3	59	9
+Kilian Matt	2010-07-28	2010-07-28	false	 13	672	220
+Kilian Matt	2010-07-08	2010-07-08	false	 5	41	129
+Kilian Matt	2010-07-05	2010-07-05	false	 4	109	13
+Kilian Matt	2010-07-05	2010-06-24	false	 16	798	720
+Kilian Matt	2010-06-24	2010-06-10	false	 2	91	6
+Kilian Matt	2010-06-24	2010-06-09	false	 9	309	214
+Kilian Matt	2010-06-24	2010-06-07	false	 4	179	20
+Kilian Matt	2010-06-24	2010-06-01	false	 2	45	6
+Kilian Matt	2010-06-24	2010-06-01	false	 5	80	12
+Kilian Matt	2010-06-24	2010-06-01	false	 3	291	0
+Kilian Matt	2010-05-24	2010-05-24	false	 72	5818	0

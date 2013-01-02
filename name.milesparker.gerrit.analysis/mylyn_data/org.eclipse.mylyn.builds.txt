@@ -1,0 +1,527 @@
+Steffen Pingel	2012-12-24	2012-12-24	false	 1	28	20
+Frank Becker	2012-11-23	2012-11-23	true	 4	34	6
+Steffen Pingel	2012-11-09	2012-11-09	true	 7	185	162
+Steffen Pingel	2012-11-07	2012-11-07	true	 70	1386	1172
+Steffen Pingel	2012-10-30	2012-10-30	false	 1	2	2
+Steffen Pingel	2012-09-17	2012-09-16	true	 2	20	1
+Steffen Pingel	2012-09-16	2012-09-16	true	 2	32	0
+Steffen Pingel	2012-09-13	2012-09-12	true	 2	5	3
+Steffen Pingel	2012-09-09	2012-09-09	false	 3	73	0
+Steffen Pingel	2012-09-06	2012-09-06	false	 11	22	0
+Steffen Pingel	2012-08-01	2012-08-01	false	 29	1110	0
+Steffen Pingel	2012-07-18	2012-07-18	true	 1	1	1
+Steffen Pingel	2012-07-18	2012-07-18	false	 1	5	1
+Steffen Pingel	2012-07-04	2012-07-04	false	 20	30	30
+Steffen Pingel	2012-06-04	2012-06-04	false	 4	21	21
+Steffen Pingel	2012-06-04	2012-06-04	false	 2	10	6
+Steffen Pingel	2012-06-04	2012-06-04	false	 9	9	9
+Steffen Pingel	2012-05-15	2012-05-15	false	 2	2	2
+Steffen Pingel	2012-04-22	2012-04-22	false	 1	18	25
+Steffen Pingel	2012-04-13	2012-04-13	false	 1	1	1
+Steffen Pingel	2012-04-13	2012-04-13	false	 4	40	9
+Steffen Pingel	2012-04-10	2012-04-10	false	 1	1	1
+Steffen Pingel	2012-04-07	2012-04-07	false	 4	15	1
+Steffen Pingel	2012-04-04	2012-04-04	false	 1	8	0
+Steffen Pingel	2012-03-22	2012-03-22	false	 1	1	1
+Steffen Pingel	2012-03-22	2012-03-22	false	 4	7	7
+Steffen Pingel	2012-03-22	2012-03-22	false	 18	28	28
+Steffen Pingel	2012-03-08	2012-03-08	false	 1	7	3
+Steffen Pingel	2012-03-07	2012-03-07	false	 4	70	5
+Steffen Pingel	2012-03-07	2012-03-07	false	 1	11	0
+Steffen Pingel	2012-03-01	2012-03-01	false	 4	66	14
+Steffen Pingel	2012-03-01	2012-03-01	false	 2	0	36
+Steffen Pingel	2012-03-01	2012-03-01	false	 2	29	24
+Steffen Pingel	2012-03-01	2012-03-01	false	 3	49	39
+Steffen Pingel	2012-02-25	2012-02-25	true	 7	103	79
+Steffen Pingel	2012-02-25	2012-02-25	false	 1	2	2
+Steffen Pingel	2012-02-25	2012-02-25	false	 1	1	3
+Steffen Pingel	2012-02-23	2012-02-23	false	 1	7	7
+Steffen Pingel	2012-02-17	2012-02-17	false	 6	13	4
+Steffen Pingel	2012-02-08	2012-02-08	false	 3	3	3
+Steffen Pingel	2012-02-04	2012-02-04	false	 2	4	1
+Steffen Pingel	2012-02-01	2012-02-01	false	 18	305	88
+Steffen Pingel	2012-01-31	2012-01-31	false	 8	159	41
+Steffen Pingel	2012-01-30	2012-01-30	false	 2	0	3
+Steffen Pingel	2012-01-30	2012-01-30	false	 1	5	1
+Steffen Pingel	2012-01-27	2012-01-27	false	 3	63	20
+Steffen Pingel	2012-01-27	2012-01-27	false	 28	399	137
+Steffen Pingel	2012-01-26	2012-01-26	false	 1	2	2
+Steffen Pingel	2012-01-26	2012-01-26	false	 1	2	2
+Steffen Pingel	2012-01-25	2012-01-25	false	 2	23	8
+Steffen Pingel	2012-01-24	2012-01-24	false	 1	12	5
+Steffen Pingel	2012-01-14	2012-01-14	true	 9	96	79
+Steffen Pingel	2012-01-14	2012-01-14	false	 1	1	1
+Steffen Pingel	2012-01-13	2012-01-13	false	 12	75	43
+Steffen Pingel	2011-12-27	2011-12-27	false	 2	65	2
+Steffen Pingel	2011-12-23	2011-12-23	false	 8	355	157
+Steffen Pingel	2011-12-23	2011-12-23	false	 38	166	1075
+Steffen Pingel	2011-12-17	2011-12-17	false	 24	40	40
+Steffen Pingel	2011-12-17	2011-12-17	false	 2	20	20
+Steffen Pingel	2011-12-17	2011-12-17	false	 10	12	17
+Steffen Pingel	2011-12-09	2011-12-09	false	 2	15	0
+Steffen Pingel	2011-12-09	2011-12-09	false	 2	29	9
+Steffen Pingel	2011-12-05	2011-12-05	false	 2	4	4
+Steffen Pingel	2011-12-05	2011-12-05	false	 9	42	23
+Steffen Pingel	2011-12-03	2011-12-03	false	 33	72	68
+Steffen Pingel	2011-12-02	2011-12-02	false	 2	4	4
+Steffen Pingel	2011-11-24	2011-11-24	false	 23	1418	1392
+Steffen Pingel	2011-10-14	2011-10-14	false	 1	1	1
+Steffen Pingel	2011-09-17	2011-09-17	true	 27	668	329
+Steffen Pingel	2011-08-28	2011-08-28	false	 1	4	3
+Steffen Pingel	2011-08-28	2011-08-28	false	 6	263	123
+Steffen Pingel	2011-08-27	2011-08-27	false	 3	59	46
+Steffen Pingel	2011-08-27	2011-08-27	false	 1	28	32
+Steffen Pingel	2011-08-27	2011-08-27	false	 1	2	0
+Steffen Pingel	2011-08-25	2011-08-25	false	 3	56	4
+Steffen Pingel	2011-08-17	2011-08-17	false	 1	6	0
+Steffen Pingel	2011-08-17	2011-08-17	false	 2	10	10
+Steffen Pingel	2011-08-17	2011-08-17	false	 1	8	3
+Steffen Pingel	2011-08-12	2011-08-12	false	 5	53	20
+Steffen Pingel	2011-08-09	2011-08-09	false	 1	6	1
+Torkild U. Resheim	2011-08-04	2011-08-04	false	 4	81	33
+Torkild U. Resheim	2011-08-03	2011-08-03	false	 2	32	10
+Steffen Pingel	2011-07-24	2011-07-24	false	 3	38	2
+Steffen Pingel	2011-07-22	2011-07-22	false	 1	80	7
+Steffen Pingel	2011-07-20	2011-07-20	false	 5	102	0
+Steffen Pingel	2011-07-19	2011-07-19	false	 1	1	0
+Steffen Pingel	2011-07-19	2011-07-19	false	 2	35	9
+Steffen Pingel	2011-07-16	2011-07-16	false	 1	13	1
+Steffen Pingel	2011-07-16	2011-07-16	false	 1	12	1
+Steffen Pingel	2011-07-10	2011-07-10	false	 9	26	11
+Steffen Pingel	2011-07-10	2011-07-10	false	 10	40	22
+Steffen Pingel	2011-06-16	2011-06-16	false	 7	14	14
+Steffen Pingel	2011-06-16	2011-06-16	false	 19	29	29
+Steffen Pingel	2011-06-04	2011-06-04	false	 1	0	1
+Steffen Pingel	2011-06-03	2011-06-03	false	 1	3	0
+Steffen Pingel	2011-06-01	2011-06-01	false	 2	2	2
+Steffen Pingel	2011-05-31	2011-05-31	false	 2	5	2
+Steffen Pingel	2011-05-24	2011-05-24	false	 1	7	5
+Steffen Pingel	2011-05-24	2011-05-24	false	 3	49	1
+Steffen Pingel	2011-05-22	2011-05-22	false	 6	144	34
+Steffen Pingel	2011-05-21	2011-05-21	false	 6	12	6
+Steffen Pingel	2011-05-18	2011-05-18	false	 4	44	33
+Steffen Pingel	2011-05-17	2011-05-17	false	 1	2	2
+Steffen Pingel	2011-05-17	2011-05-17	false	 2	21	6
+Steffen Pingel	2011-04-14	2011-04-14	false	 3	28	0
+Steffen Pingel	2011-04-14	2011-04-14	false	 1	0	4
+Steffen Pingel	2011-03-27	2011-03-27	false	 19	29	29
+Steffen Pingel	2011-03-26	2011-03-26	false	 1	1	0
+Steffen Pingel	2011-03-17	2011-03-16	false	 1	1	1
+Steffen Pingel	2011-03-17	2011-03-16	false	 6	116	87
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	9	1
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	40	32
+Steffen Pingel	2011-03-10	2011-03-10	false	 3	5	5
+Steffen Pingel	2011-03-10	2011-03-10	false	 1	4	4
+Steffen Pingel	2011-03-08	2011-03-08	false	 12	0	1347
+Steffen Pingel	2011-03-07	2011-03-07	false	 1	5	64
+Steffen Pingel	2011-03-05	2011-03-05	false	 1	9	8
+Steffen Pingel	2011-03-02	2011-03-02	false	 95	2079	3854
+Steffen Pingel	2011-03-02	2011-03-02	false	 1	4	1
+Steffen Pingel	2011-02-24	2011-02-24	false	 29	2331	2
+Steffen Pingel	2011-02-23	2011-02-23	false	 3	6	5
+Steffen Pingel	2011-02-23	2011-02-23	false	 1	13	5
+Steffen Pingel	2011-02-23	2011-02-23	false	 2	136	77
+Steffen Pingel	2011-02-17	2011-02-17	false	 1	1	2
+Steffen Pingel	2011-02-17	2011-02-17	false	 1	6	0
+Steffen Pingel	2011-02-17	2011-02-17	false	 2	6	3
+Steffen Pingel	2011-02-17	2011-02-17	false	 1	5	0
+Steffen Pingel	2011-02-12	2011-02-12	false	 4	22	9
+Steffen Pingel	2011-02-12	2011-02-12	false	 8	135	45
+Steffen Pingel	2011-02-12	2011-02-12	false	 4	61	15
+Steffen Pingel	2011-02-12	2011-02-12	false	 1	3	1
+Steffen Pingel	2011-02-12	2011-02-12	false	 2	13	4
+Steffen Pingel	2011-02-08	2011-02-08	false	 1	7	6
+Steffen Pingel	2011-02-07	2011-02-07	false	 1	5	1
+Steffen Pingel	2011-02-07	2011-02-07	false	 6	6	8
+Steffen Pingel	2011-02-06	2011-02-06	false	 1	1	0
+Steffen Pingel	2011-02-06	2011-02-06	false	 3	69	6
+Steffen Pingel	2011-02-06	2011-02-06	false	 6	8	30
+Steffen Pingel	2011-01-27	2011-01-27	false	 1	3	3
+Steffen Pingel	2011-01-25	2011-01-25	false	 1	11	5
+Steffen Pingel	2011-01-22	2011-01-22	false	 2	16	0
+Steffen Pingel	2011-01-22	2011-01-22	false	 1	1	1
+Steffen Pingel	2011-01-21	2011-01-21	false	 2	2	2
+Steffen Pingel	2011-01-20	2011-01-20	false	 10	47	13
+Steffen Pingel	2011-01-20	2011-01-20	false	 1	0	4
+Steffen Pingel	2011-01-20	2011-01-20	false	 1	1	0
+Steffen Pingel	2011-01-20	2011-01-20	false	 2	29	4
+Torkild Ulvøy Resheim	2011-01-05	2011-01-05	false	 1	51	38
+Torkild Ulvøy Resheim	2011-01-05	2011-01-05	false	0	0	0
+Torkild Ulvøy Resheim	2011-01-05	2011-01-05	false	 1	6	0
+Steffen Pingel	2011-01-04	2011-01-04	false	 1	4	1
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	5	1
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	9	7
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 2	4	0
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 2	3	3
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	1	3
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	7	0
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	0	0	0
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	34	4
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	0	0	0
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	0	0	0
+Torkild Ulvøy Resheim	2010-12-27	2010-12-27	false	 1	0	6
+Torkild Ulvøy Resheim	2010-12-23	2010-12-23	false	 1	27	1
+Torkild Ulvøy Resheim	2010-12-23	2010-12-23	false	 1	47	0
+Torkild Ulvøy Resheim	2010-12-23	2010-12-23	false	 1	3	5
+Torkild Ulvøy Resheim	2010-12-22	2010-12-22	false	 1	9	12
+Torkild Ulvøy Resheim	2010-12-22	2010-12-22	false	 1	6	0
+Steffen Pingel	2010-12-18	2010-12-18	false	 13	1	19
+Steffen Pingel	2010-12-18	2010-12-18	false	0	0	0
+Torkild U. Resheim	2010-12-16	2010-12-16	false	 1	18	5
+Steffen Pingel	2010-12-14	2010-12-14	false	 8	132	0
+Torkild U. Resheim	2010-11-30	2010-11-30	false	 1	1	3
+Torkild U. Resheim	2010-11-25	2010-11-25	false	 1	61	2
+Torkild U. Resheim	2010-11-24	2010-11-24	false	 3	31	4
+Torkild U. Resheim	2010-11-22	2010-11-22	false	 2	5	3
+Torkild U. Resheim	2010-11-22	2010-11-22	false	 3	15	2
+Torkild U. Resheim	2010-11-22	2010-11-22	false	 1	1	0
+Steffen Pingel	2010-11-18	2010-11-18	false	 1	1	1
+Steffen Pingel	2010-11-18	2010-11-18	false	0	0	0
+Steffen Pingel	2010-11-18	2010-11-18	false	 1	1	0
+Steffen Pingel	2010-11-18	2010-11-18	false	 1	1	0
+spingel	2010-10-21	2010-10-21	false	 1	1	2
+spingel	2010-10-20	2010-10-20	false	 1	32	8
+spingel	2010-10-20	2010-10-20	false	 1	22	1
+spingel	2010-10-12	2010-10-12	false	 1	0	0
+spingel	2010-10-11	2010-10-11	false	 1	12	1
+spingel	2010-10-11	2010-10-11	false	 1	13	0
+spingel	2010-10-11	2010-10-11	false	 5	100	4
+spingel	2010-10-10	2010-10-10	false	 2	38	30
+spingel	2010-10-10	2010-10-10	false	 1	1	1
+spingel	2010-10-10	2010-10-10	false	 2	24	5
+spingel	2010-10-10	2010-10-10	false	 1	1	1
+spingel	2010-10-10	2010-10-10	false	 18	513	146
+spingel	2010-10-10	2010-10-10	false	 1	11	2
+spingel	2010-10-10	2010-10-10	false	 3	25	19
+spingel	2010-10-10	2010-10-10	false	 3	79	22
+spingel	2010-10-10	2010-10-10	false	 1	2	0
+spingel	2010-10-10	2010-10-10	false	 1	8	5
+spingel	2010-10-10	2010-10-10	false	 1	2	0
+spingel	2010-10-08	2010-10-08	false	 6	189	7
+spingel	2010-10-08	2010-10-08	false	 10	396	6
+spingel	2010-10-03	2010-10-03	false	 15	216	50
+spingel	2010-10-03	2010-10-03	false	 3	90	36
+spingel	2010-10-02	2010-10-02	false	 4	184	0
+spingel	2010-09-30	2010-09-30	false	 2	1	152
+spingel	2010-09-30	2010-09-30	false	 1	3	1
+spingel	2010-09-27	2010-09-27	false	 1	2	0
+spingel	2010-09-27	2010-09-27	false	 3	94	1
+spingel	2010-09-26	2010-09-26	false	 1	1	0
+spingel	2010-09-26	2010-09-26	false	 1	18	0
+spingel	2010-09-26	2010-09-26	false	 20	507	323
+spingel	2010-09-26	2010-09-26	false	 1	42	8
+spingel	2010-09-26	2010-09-26	false	 16	1414	57
+spingel	2010-09-25	2010-09-25	false	 2	7	3
+spingel	2010-09-25	2010-09-25	false	 1	0	7
+spingel	2010-09-25	2010-09-25	false	 4	27	7
+spingel	2010-09-25	2010-09-25	false	 1	77	0
+spingel	2010-09-25	2010-09-25	false	 2	252	0
+spingel	2010-09-25	2010-09-25	false	 1	1	1
+spingel	2010-09-25	2010-09-25	false	 1	5	3
+spingel	2010-09-25	2010-09-25	false	 1	1	1
+spingel	2010-09-25	2010-09-25	false	 1	1	1
+spingel	2010-09-25	2010-09-25	false	 1	1	1
+spingel	2010-09-25	2010-09-25	false	 1	5	5
+spingel	2010-09-25	2010-09-25	false	 3	142	25
+spingel	2010-09-25	2010-09-25	false	 17	591	30
+spingel	2010-09-25	2010-09-25	false	 9	252	10
+spingel	2010-09-25	2010-09-25	false	 9	253	5
+spingel	2010-09-25	2010-09-25	false	 1	117	18
+spingel	2010-09-14	2010-09-14	false	 2	10	4
+spingel	2010-09-14	2010-09-14	false	 1	1	1
+spingel	2010-09-12	2010-09-12	false	 2	16	2
+spingel	2010-09-12	2010-09-12	false	 6	159	39
+spingel	2010-09-12	2010-09-12	false	 1	1	0
+spingel	2010-09-12	2010-09-12	false	 1	7	3
+spingel	2010-09-12	2010-09-12	false	 2	13	6
+spingel	2010-09-12	2010-09-12	false	 12	752	49
+spingel	2010-09-12	2010-09-12	false	 1	14	9
+spingel	2010-09-12	2010-09-12	false	 22	483	0
+spingel	2010-09-12	2010-09-12	false	 19	376	0
+spingel	2010-09-12	2010-09-12	false	 1	5	1
+spingel	2010-09-12	2010-09-12	false	 1	4	22
+spingel	2010-09-12	2010-09-12	false	 1	7	1
+spingel	2010-09-12	2010-09-12	false	 14	643	161
+spingel	2010-09-12	2010-09-12	false	 1	1	0
+spingel	2010-09-12	2010-09-12	false	 1	0	18
+spingel	2010-09-12	2010-09-12	false	 2	5	2
+spingel	2010-09-12	2010-09-12	false	 3	120	0
+spingel	2010-09-12	2010-09-12	false	 1	1	13
+spingel	2010-09-12	2010-09-12	false	 1	25	0
+spingel	2010-09-12	2010-09-12	false	 1	6	0
+spingel	2010-09-12	2010-09-12	false	 3	200	0
+spingel	2010-09-08	2010-09-08	false	 1	10	3
+spingel	2010-09-08	2010-09-08	false	 1	1	1
+spingel	2010-09-08	2010-09-08	false	 1	2	2
+spingel	2010-09-08	2010-09-08	false	 1	16	13
+spingel	2010-09-08	2010-09-08	false	 1	2	2
+spingel	2010-09-08	2010-09-08	false	 2	8	3
+spingel	2010-09-08	2010-09-08	false	 1	3	0
+spingel	2010-09-08	2010-09-08	false	 1	1	1
+spingel	2010-09-08	2010-09-08	false	 1	6	4
+spingel	2010-09-08	2010-09-08	false	 1	2	0
+spingel	2010-09-08	2010-09-08	false	 2	20	5
+spingel	2010-09-08	2010-09-08	false	 2	16	5
+spingel	2010-09-08	2010-09-08	false	 1	1	1
+spingel	2010-09-08	2010-09-08	false	 4	53	19
+spingel	2010-09-08	2010-09-08	false	 5	72	40
+spingel	2010-09-08	2010-09-08	false	 9	301	19
+spingel	2010-09-08	2010-09-08	false	 1	13	8
+spingel	2010-09-08	2010-09-08	false	 9	381	75
+spingel	2010-09-08	2010-09-08	false	 1	3	3
+spingel	2010-09-08	2010-09-08	false	 3	108	1
+spingel	2010-09-08	2010-09-08	false	 6	392	53
+spingel	2010-09-07	2010-09-07	false	 1	1	3
+spingel	2010-09-03	2010-09-03	false	 1	0	1
+spingel	2010-09-02	2010-09-02	false	 2	30	8
+spingel	2010-09-02	2010-09-02	false	 1	202	122
+spingel	2010-09-02	2010-09-02	false	 21	1157	598
+spingel	2010-09-02	2010-09-02	false	 2	34	24
+spingel	2010-09-02	2010-09-02	false	 2	18	3
+spingel	2010-09-02	2010-09-02	false	 1	1	1
+spingel	2010-09-02	2010-09-02	false	 1	32	3
+spingel	2010-09-02	2010-09-02	false	 1	1	1
+spingel	2010-09-01	2010-09-01	false	 1	0	1
+sminto	2010-09-01	2010-09-01	false	 1	19	0
+spingel	2010-09-01	2010-09-01	false	 1	25	0
+spingel	2010-09-01	2010-09-01	false	 1	6	6
+spingel	2010-09-01	2010-09-01	false	 11	655	23
+spingel	2010-09-01	2010-09-01	false	 1	13	2
+spingel	2010-09-01	2010-09-01	false	 3	2	312
+spingel	2010-09-01	2010-09-01	false	 14	1179	7
+spingel	2010-09-01	2010-09-01	false	 5	180	4
+spingel	2010-09-01	2010-09-01	false	 3	20	0
+spingel	2010-08-31	2010-08-31	false	 1	4	0
+spingel	2010-08-31	2010-08-31	false	 2	54	5
+spingel	2010-08-31	2010-08-31	false	 1	11	1
+spingel	2010-08-31	2010-08-31	false	 1	3	1
+spingel	2010-08-31	2010-08-31	false	 2	11	3
+spingel	2010-08-31	2010-08-31	false	 6	98	18
+spingel	2010-08-31	2010-08-31	false	 2	6	6
+spingel	2010-08-31	2010-08-31	false	 3	101	0
+spingel	2010-08-31	2010-08-31	false	 1	4	2
+spingel	2010-08-31	2010-08-31	false	 1	19	2
+spingel	2010-08-31	2010-08-31	false	 2	16	11
+spingel	2010-08-31	2010-08-31	false	 1	4	0
+spingel	2010-08-31	2010-08-31	false	 1	14	2
+spingel	2010-08-31	2010-08-31	false	 3	27	17
+spingel	2010-08-31	2010-08-31	false	 4	21	26
+spingel	2010-08-31	2010-08-31	false	 1	22	6
+spingel	2010-08-31	2010-08-31	false	 1	13	3
+spingel	2010-08-29	2010-08-29	false	 3	79	25
+spingel	2010-08-29	2010-08-29	false	 6	172	8
+spingel	2010-08-28	2010-08-28	false	 3	49	2
+spingel	2010-08-28	2010-08-28	false	 2	23	1
+spingel	2010-08-28	2010-08-28	false	 8	225	109
+spingel	2010-08-28	2010-08-28	false	 3	34	2
+spingel	2010-08-28	2010-08-28	false	 1	12	4
+spingel	2010-08-28	2010-08-28	false	 1	6	7
+spingel	2010-08-28	2010-08-28	false	 47	1767	477
+spingel	2010-08-28	2010-08-28	false	 27	1388	387
+spingel	2010-08-28	2010-08-28	false	 12	188	88
+spingel	2010-08-28	2010-08-28	false	 1	3	3
+spingel	2010-08-28	2010-08-28	false	 1	2	2
+spingel	2010-08-28	2010-08-28	false	 117	18251	19613
+spingel	2010-08-28	2010-08-28	false	 19	48	45
+spingel	2010-08-28	2010-08-28	false	 1	31	33
+spingel	2010-08-28	2010-08-28	false	 1	7	7
+spingel	2010-08-28	2010-08-28	false	 20	111	128
+spingel	2010-08-28	2010-08-28	false	 1	1	2
+spingel	2010-08-28	2010-08-28	false	 36	1475	4286
+spingel	2010-08-28	2010-08-28	false	 1	4	4
+spingel	2010-08-28	2010-08-28	false	 1	5	4
+spingel	2010-08-27	2010-08-27	false	 1	3	0
+spingel	2010-08-27	2010-08-27	false	 1	1	1
+spingel	2010-08-27	2010-08-27	false	 12	3346	147
+spingel	2010-08-27	2010-08-27	false	 3	232	35
+spingel	2010-08-27	2010-08-27	false	 1	8	8
+spingel	2010-08-27	2010-08-27	false	 3	208	7
+spingel	2010-08-27	2010-08-27	false	 1	2	1
+spingel	2010-08-27	2010-08-27	false	 29	6809	1047
+spingel	2010-08-27	2010-08-27	false	 1	1	1
+spingel	2010-08-27	2010-08-27	false	 4	103	2
+spingel	2010-08-27	2010-08-27	false	 2	4	6
+spingel	2010-08-27	2010-08-27	false	 1	9	9
+spingel	2010-08-27	2010-08-27	false	 1	6	5
+spingel	2010-08-27	2010-08-27	false	 1	3	3
+spingel	2010-08-27	2010-08-27	false	 1	1	3
+spingel	2010-08-27	2010-08-27	false	 1	5	5
+spingel	2010-08-27	2010-08-27	false	 1	7	7
+spingel	2010-08-26	2010-08-26	false	 1	2	2
+spingel	2010-08-26	2010-08-26	false	 1	1	1
+spingel	2010-08-26	2010-08-26	false	 5	20	20
+spingel	2010-08-26	2010-08-26	false	 1	1	1
+spingel	2010-08-26	2010-08-26	false	 7	95	9
+spingel	2010-08-26	2010-08-26	false	 4	126	101
+spingel	2010-08-26	2010-08-26	false	 1	2	0
+spingel	2010-08-26	2010-08-26	false	 1	2	2
+spingel	2010-08-26	2010-08-26	false	 1	24	5
+spingel	2010-08-26	2010-08-26	false	 8	133	60
+spingel	2010-08-26	2010-08-26	false	 3	166	24
+spingel	2010-08-26	2010-08-26	false	 1	24	23
+spingel	2010-08-26	2010-08-26	false	 8	226	3
+spingel	2010-08-26	2010-08-26	false	 5	46	29
+spingel	2010-08-26	2010-08-26	false	 2	52	39
+spingel	2010-08-26	2010-08-26	false	 1	2	2
+spingel	2010-08-26	2010-08-26	false	 1	15	0
+spingel	2010-08-26	2010-08-26	false	 4	82	41
+spingel	2010-08-25	2010-08-25	false	 19	545	97
+spingel	2010-08-25	2010-08-25	false	 2	104	18
+spingel	2010-08-25	2010-08-25	false	 1	87	0
+spingel	2010-08-25	2010-08-25	false	 25	2076	695
+spingel	2010-08-22	2010-08-22	false	 2	4	5
+spingel	2010-08-22	2010-08-22	false	 1	41	38
+spingel	2010-08-22	2010-08-22	false	 2	47	13
+spingel	2010-08-22	2010-08-22	false	 6	158	60
+spingel	2010-08-22	2010-08-22	false	 1	1	0
+spingel	2010-08-22	2010-08-22	false	 10	277	23
+spingel	2010-08-22	2010-08-22	false	 3	22	17
+spingel	2010-08-22	2010-08-22	false	 1	1	8
+spingel	2010-08-22	2010-08-22	false	 4	171	18
+spingel	2010-08-21	2010-08-21	false	 3	219	47
+spingel	2010-08-21	2010-08-21	false	 1	64	3
+spingel	2010-08-21	2010-08-21	false	 4	57	60
+spingel	2010-08-21	2010-08-21	false	 1	2	1
+spingel	2010-08-21	2010-08-21	false	 1	4	1
+spingel	2010-08-21	2010-08-21	false	 11	141	62
+spingel	2010-08-21	2010-08-21	false	 3	44	1
+spingel	2010-08-05	2010-08-05	false	 1	4	2
+spingel	2010-08-05	2010-08-05	false	 1	2	1
+spingel	2010-08-05	2010-08-05	false	 1	3	2
+spingel	2010-08-05	2010-08-05	false	 6	144	66
+spingel	2010-08-04	2010-08-04	false	 4	60	15
+spingel	2010-08-04	2010-08-04	false	 2	14	7
+spingel	2010-08-04	2010-08-04	false	 48	1662	1094
+spingel	2010-08-04	2010-08-04	false	 23	350	679
+spingel	2010-08-04	2010-08-04	false	 3	12	1
+spingel	2010-08-03	2010-08-03	false	 2	131	1
+spingel	2010-08-03	2010-08-03	false	 5	133	26
+spingel	2010-08-03	2010-08-03	false	 1	1	2
+spingel	2010-08-03	2010-08-03	false	 2	3	2
+spingel	2010-08-03	2010-08-03	false	 15	34	25
+spingel	2010-08-03	2010-08-03	false	 4	82	21
+spingel	2010-08-03	2010-08-03	false	 2	85	2
+spingel	2010-08-03	2010-08-03	false	 1	4	4
+spingel	2010-08-03	2010-08-03	false	 2	24	3
+spingel	2010-08-03	2010-08-03	false	 3	174	14
+spingel	2010-08-02	2010-08-02	false	 1	66	46
+spingel	2010-07-30	2010-07-30	false	 1	4	1
+spingel	2010-07-30	2010-07-30	false	 3	34	34
+spingel	2010-07-30	2010-07-30	false	 4	15	8
+spingel	2010-07-21	2010-07-21	false	 1	2	2
+spingel	2010-07-14	2010-07-14	false	 1	0	1
+spingel	2010-07-14	2010-07-14	false	 4	98	7
+spingel	2010-07-14	2010-07-14	false	 2	22	11
+spingel	2010-07-14	2010-07-14	false	 2	66	50
+spingel	2010-07-14	2010-07-14	false	 3	8	11
+spingel	2010-07-12	2010-07-12	false	 5	164	0
+spingel	2010-07-11	2010-07-11	false	 1	1	2
+spingel	2010-07-11	2010-07-11	false	 2	8	8
+spingel	2010-07-11	2010-07-11	false	 4	24	16
+spingel	2010-07-11	2010-07-11	false	 9	292	135
+spingel	2010-07-09	2010-07-09	false	 2	8	1
+spingel	2010-07-09	2010-07-09	false	 3	15	2
+spingel	2010-07-09	2010-07-09	false	 5	191	27
+spingel	2010-07-09	2010-07-09	false	 14	372	48
+spingel	2010-07-09	2010-07-09	false	 2	11	25
+spingel	2010-07-08	2010-07-08	false	 21	6141	336
+spingel	2010-07-03	2010-07-03	false	 1	1	3
+spingel	2010-07-03	2010-07-03	false	 4	115	63
+spingel	2010-07-03	2010-07-03	false	 1	1	1
+spingel	2010-07-03	2010-07-03	false	 2	2	2
+spingel	2010-07-03	2010-07-03	false	 1	1	7
+spingel	2010-07-03	2010-07-03	false	 8	791	19
+spingel	2010-07-03	2010-07-03	false	 3	31	1
+spingel	2010-07-03	2010-07-03	false	 4	58	0
+spingel	2010-07-03	2010-07-03	false	 1	7	0
+spingel	2010-07-03	2010-07-03	false	 1	3	1
+spingel	2010-07-02	2010-07-02	false	 1	1	1
+spingel	2010-07-02	2010-07-02	false	 12	274	303
+spingel	2010-07-02	2010-07-02	false	 1	1	1
+spingel	2010-07-02	2010-07-02	false	 2	11	13
+spingel	2010-07-02	2010-07-02	false	 2	8	11
+spingel	2010-07-01	2010-07-01	false	 1	6	0
+spingel	2010-07-01	2010-07-01	false	 4	8	0
+spingel	2010-07-01	2010-07-01	false	 4	69	0
+spingel	2010-07-01	2010-07-01	false	 5	217	9
+spingel	2010-07-01	2010-07-01	false	 4	59	259
+spingel	2010-07-01	2010-07-01	false	 2	35	0
+spingel	2010-06-28	2010-06-28	false	 2	57	6
+spingel	2010-06-28	2010-06-28	false	 2	32	0
+spingel	2010-06-28	2010-06-28	false	 5	72	3
+spingel	2010-06-28	2010-06-28	false	 2	62	2
+spingel	2010-06-28	2010-06-28	false	 1	6	0
+spingel	2010-06-26	2010-06-26	false	 3	8	0
+spingel	2010-06-26	2010-06-26	false	 1	29	1
+spingel	2010-06-26	2010-06-26	false	 1	153	58
+spingel	2010-06-26	2010-06-26	false	 1	13	3
+spingel	2010-06-26	2010-06-26	false	 1	13	3
+spingel	2010-06-26	2010-06-26	false	 2	16	4
+spingel	2010-06-26	2010-06-26	false	 1	13	3
+spingel	2010-06-26	2010-06-26	false	 1	13	3
+spingel	2010-06-26	2010-06-26	false	 7	371	292
+spingel	2010-06-26	2010-06-26	false	 1	33	30
+spingel	2010-06-26	2010-06-26	false	 1	7	0
+spingel	2010-06-26	2010-06-26	false	 1	22	1
+spingel	2010-06-26	2010-06-26	false	 1	3	3
+spingel	2010-06-26	2010-06-26	false	 1	3	3
+spingel	2010-06-26	2010-06-26	false	 1	1	1
+spingel	2010-06-26	2010-06-26	false	 1	1	1
+spingel	2010-06-26	2010-06-26	false	 1	1	1
+spingel	2010-06-26	2010-06-26	false	 1	1	1
+spingel	2010-06-26	2010-06-26	false	 1	2	2
+spingel	2010-06-25	2010-06-25	false	 1	32	3
+spingel	2010-06-25	2010-06-25	false	 2	4	4
+spingel	2010-06-25	2010-06-25	false	 2	13	2
+spingel	2010-06-25	2010-06-25	false	 1	16	0
+spingel	2010-06-24	2010-06-24	false	 1	6	2
+spingel	2010-06-24	2010-06-24	false	 1	27	7
+spingel	2010-06-24	2010-06-24	false	 10	397	18
+spingel	2010-06-24	2010-06-24	false	 1	5	4
+spingel	2010-06-24	2010-06-24	false	 14	285	52
+spingel	2010-06-24	2010-06-24	false	 1	15	8
+spingel	2010-06-24	2010-06-24	false	 1	8	8
+spingel	2010-06-15	2010-06-15	false	 2	22	3
+spingel	2010-06-15	2010-06-15	false	 8	598	68
+spingel	2010-06-15	2010-06-15	false	 6	212	20
+spingel	2010-06-11	2010-06-11	false	 1	1	1
+spingel	2010-06-08	2010-06-08	false	 1	10	0
+spingel	2010-06-08	2010-06-08	false	 2	2	2
+spingel	2010-06-08	2010-06-08	false	 1	10	0
+spingel	2010-06-08	2010-06-08	false	 2	21	1
+spingel	2010-06-08	2010-06-08	false	 1	10	0
+spingel	2010-06-08	2010-06-08	false	 1	10	0
+spingel	2010-06-08	2010-06-08	false	 4	173	1
+spingel	2010-06-08	2010-06-08	false	 5	195	2
+spingel	2010-06-08	2010-06-08	false	 4	41	3
+spingel	2010-06-04	2010-06-04	false	 2	7	6
+spingel	2010-06-04	2010-06-04	false	 2	4	1
+spingel	2010-06-01	2010-06-01	false	 1	2	2
+spingel	2010-06-01	2010-06-01	false	 1	4	4
+spingel	2010-05-31	2010-05-31	false	 1	2	1
+spingel	2010-05-31	2010-05-31	false	 1	1	1
+spingel	2010-05-30	2010-05-30	false	 3	214	2
+spingel	2010-05-30	2010-05-30	false	 34	4080	3
+spingel	2010-05-30	2010-05-30	false	 13	568	435
+spingel	2010-05-30	2010-05-30	false	 1	11	11
+spingel	2010-05-30	2010-05-30	false	 13	69	27
+spingel	2010-05-30	2010-05-30	false	 13	855	100
+spingel	2010-05-30	2010-05-30	false	 2	40	5
+spingel	2010-05-30	2010-05-30	false	 10	536	172
+spingel	2010-05-29	2010-05-29	false	 5	175	60
+spingel	2010-05-29	2010-05-29	false	 1	1	0
+spingel	2010-05-29	2010-05-29	false	 2	28	0
+spingel	2010-05-28	2010-05-28	false	 7	117	3
+spingel	2010-05-28	2010-05-28	false	 1	1	1
+spingel	2010-05-28	2010-05-28	false	 1	1	1
+spingel	2010-05-28	2010-05-28	false	 26	1322	3
+spingel	2010-05-28	2010-05-28	false	 1	1	1
+spingel	2010-05-28	2010-05-28	false	 23	4084	20
+spingel	2010-05-20	2010-05-20	false	 1	2	2
+spingel	2010-05-12	2010-05-12	false	 10	1111	0
+spingel	2010-05-12	2010-05-12	false	 12	541	0
+spingel	2010-05-12	2010-05-12	false	 11	538	0
+spingel	2010-05-12	2010-05-12	false	 12	539	0
+spingel	2010-05-12	2010-05-12	false	 11	536	0
+spingel	2010-05-12	2010-05-12	false	 12	544	0
+spingel	2010-05-12	2010-05-12	false	 12	545	0

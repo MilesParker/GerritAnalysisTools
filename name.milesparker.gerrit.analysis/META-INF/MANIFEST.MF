@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Analysis
+Bundle-SymbolicName: name.milesparker.gerrit.analysis
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: name.milesparker.gerrit.analysis.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.apache.commons.lang;bundle-version="2.6.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

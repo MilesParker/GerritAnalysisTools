@@ -1,0 +1,138 @@
+Steffen Pingel	2012-09-06	2012-09-06	true	 14	28	0
+aleon	2012-08-29	2012-08-29	true	 4	44	6
+Steffen Pingel	2012-08-10	2012-08-10	true	 1	1	2
+Kilian Matt	2012-08-03	2012-07-20	true	 5	109	185
+Kilian Matt	2012-07-20	2012-07-19	true	 1	9	12
+Steffen Pingel	2012-07-04	2012-07-04	false	 28	42	42
+Kilian Matt	2012-06-29	2012-06-29	true	 2	119	0
+Kilian Matt	2012-06-13	2012-05-26	true	 2	207	37
+Steffen Pingel	2012-06-04	2012-06-04	true	 1	23	25
+Steffen Pingel	2012-06-04	2012-06-04	false	 1	0	1
+aleon	2012-06-04	2012-06-04	true	 1	7	0
+Steffen Pingel	2012-06-04	2012-06-04	false	 5	6	6
+Steffen Pingel	2012-06-04	2012-06-04	false	 12	12	12
+Steffen Pingel	2012-06-03	2012-06-03	false	 1	1	2
+aleon	2012-05-31	2012-05-31	false	 1	38	21
+sdubois	2012-05-18	2012-05-18	true	 2	117	25
+Steffen Pingel	2012-04-16	2012-04-16	false	 1	177	0
+Steffen Pingel	2012-03-22	2012-03-22	true	 1	1	1
+Steffen Pingel	2012-03-22	2012-03-22	true	 28	45	45
+Steffen Pingel	2012-03-01	2012-03-01	false	 2	0	36
+aleon	2012-02-20	2012-02-20	false	 1	1	1
+Steffen Pingel	2012-02-17	2012-02-17	false	 8	15	15
+Steffen Pingel	2012-02-17	2012-02-17	false	 10	0	17
+Steffen Pingel	2012-02-08	2012-02-08	false	 4	4	4
+Steffen Pingel	2011-12-17	2011-12-17	false	 2	3	3
+Steffen Pingel	2011-12-17	2011-12-17	false	 1	1	1
+Steffen Pingel	2011-11-24	2011-11-24	false	 33	1535	1509
+Steffen Pingel	2011-11-18	2011-11-18	false	 3	28	7
+Steffen Pingel	2011-11-09	2011-11-09	true	 1	1	1
+aleon	2011-10-19	2011-10-19	false	 1	2	0
+aleon	2011-09-29	2011-09-29	false	 1	4	0
+aleon	2011-09-14	2011-09-14	false	 3	5	4
+Steffen Pingel	2011-09-11	2011-09-11	false	 3	16	9
+aleon	2011-09-10	2011-09-10	false	 1	36	43
+aleon	2011-09-09	2011-09-09	false	 9	685	0
+aleon	2011-09-09	2011-09-09	false	 1	1	2
+aleon	2011-09-09	2011-09-09	false	 1	0	1
+aleon	2011-09-07	2011-09-07	false	 1	1	1
+aleon	2011-08-29	2011-08-26	false	 2	43	10
+Steffen Pingel	2011-08-27	2011-08-27	false	 4	4	4
+aleon	2011-08-24	2011-08-24	false	 1	22	16
+aleon	2011-08-24	2011-08-24	false	 1	4	4
+aleon	2011-08-24	2011-08-24	false	 1	57	22
+aleon	2011-08-23	2011-08-23	false	 1	1	1
+aleon	2011-08-23	2011-08-23	false	 2	51	16
+aleon	2011-08-22	2011-08-22	false	 2	34	50
+aleon	2011-08-22	2011-08-22	false	 1	230	8
+aleon	2011-08-22	2011-08-19	false	 1	5	0
+Steffen Pingel	2011-08-17	2011-08-17	false	 3	3	3
+Steffen Pingel	2011-07-23	2011-07-23	false	 1	17	0
+Steffen Pingel	2011-07-23	2011-07-23	false	 1	7	0
+Steffen Pingel	2011-07-20	2011-07-20	false	 1	1	1
+Steffen Pingel	2011-07-20	2011-07-20	false	 5	105	0
+sreiterer	2011-07-17	2011-07-17	false	 1	174	128
+Steffen Pingel	2011-07-14	2011-07-14	false	 1	1	1
+aleon	2011-07-14	2011-07-14	false	 15	1209	0
+aleon	2011-07-13	2011-07-13	false	 4	392	181
+Steffen Pingel	2011-07-13	2011-07-13	false	 4	4	4
+Steffen Pingel	2011-07-13	2011-07-13	false	 17	890	0
+Benjamin Muskalla	2011-07-12	2011-07-12	false	 1	1	0
+Steffen Pingel	2011-07-10	2011-07-10	false	 11	41	25
+aleon	2011-07-07	2011-07-07	false	 17	1003	0
+Steffen Pingel	2011-07-06	2011-07-06	false	 1	3	0
+spingel	2011-06-28	2011-06-28	false	 1	2	2
+spingel	2011-06-16	2011-06-16	false	 6	12	12
+spingel	2011-06-16	2011-06-16	false	 19	30	30
+spingel	2011-06-04	2011-06-04	false	 2	2	4
+aleon	2011-06-02	2011-06-02	false	 1	1	1
+aleon	2011-06-02	2011-06-02	false	 2	4	17
+spingel	2011-05-31	2011-05-31	false	 1	2	0
+spingel	2011-05-21	2011-05-21	false	 8	16	8
+spingel	2011-05-18	2011-05-18	false	 2	2	2
+spingel	2011-05-16	2011-05-16	false	 2	3	5
+aleon	2011-05-11	2011-05-11	false	 10	455	388
+aleon	2011-05-10	2011-05-10	false	 3	13	7
+kmatt	2011-05-08	2011-05-08	false	 5	18	5
+aleon	2011-04-28	2011-04-28	false	 1	2	1
+aleon	2011-04-26	2011-04-26	false	 1	1	0
+aleon	2011-04-26	2011-04-26	false	 1	7	0
+aleon	2011-04-26	2011-04-26	false	 13	812	396
+spingel	2011-04-21	2011-04-21	false	 1	1	0
+spingel	2011-04-21	2011-04-21	false	 1	4	0
+spingel	2011-04-20	2011-04-20	false	 2	9	6
+aleon	2011-04-13	2011-04-13	false	 1	10	3
+aleon	2011-04-13	2011-04-13	false	 1	1	1
+aleon	2011-04-13	2011-04-13	false	 1	9	2
+aleon	2011-04-06	2011-04-06	false	 2	3	7
+aleon	2011-04-04	2011-04-04	false	 1	8	0
+aleon	2011-04-04	2011-04-04	false	 8	712	0
+aleon	2011-04-03	2011-04-03	false	 1	92	2
+aleon	2011-04-02	2011-04-02	false	 1	3	2
+aleon	2011-03-31	2011-03-31	false	 2	6	87
+spingel	2011-03-28	2011-03-28	false	 1	2	2
+spingel	2011-03-27	2011-03-27	false	 16	24	24
+aleon	2011-03-26	2011-03-26	false	 2	89	4
+aleon	2011-03-12	2011-03-12	false	 5	256	2
+aleon	2011-03-11	2011-03-11	false	 1	61	4
+aleon	2011-03-11	2011-03-11	false	 7	253	3
+spingel	2011-03-10	2011-03-10	false	 1	0	3
+spingel	2011-03-08	2011-03-08	false	 1	0	2
+spingel	2011-03-08	2011-03-08	false	 15	0	1794
+spingel	2011-03-03	2011-03-03	false	 8	8	8
+spingel	2011-03-03	2011-03-03	false	 19	139	58
+spingel	2011-02-25	2011-02-25	false	 1	2	2
+spingel	2011-02-25	2011-02-25	false	 1	2	2
+spingel	2011-02-25	2011-02-25	false	 13	49	11
+spingel	2011-02-25	2011-02-25	false	 1	4	0
+spingel	2011-02-25	2011-02-25	false	 44	4415	0
+spingel	2011-02-24	2011-02-24	false	 2	3	3
+spingel	2011-02-24	2011-02-24	false	 1	34	4
+spingel	2011-02-24	2011-02-24	false	 1	4	2
+spingel	2011-02-24	2011-02-24	false	 3	19	25
+spingel	2011-02-24	2011-02-24	false	 8	96	112
+spingel	2011-02-07	2011-02-07	false	 4	5	6
+spingel	2011-02-06	2011-02-06	false	 1	6	0
+spingel	2011-02-04	2011-02-04	false	 3	55	77
+spingel	2011-02-03	2011-02-03	false	 16	869	384
+kmatt	2011-02-03	2011-02-03	false	 10	452	0
+kmatt	2011-02-03	2011-02-03	false	 2	8	2
+spingel	2011-01-25	2011-01-25	false	 2	7	3
+kmatt	2011-01-25	2011-01-25	false	 3	10	6
+kmatt	2011-01-25	2011-01-25	false	 7	158	30
+kmatt	2011-01-25	2011-01-25	false	 1	2	2
+spingel	2011-01-20	2011-01-20	false	 1	1	1
+spingel	2010-12-16	2010-12-16	false	 5	5	5
+spingel	2010-12-14	2010-12-14	false	 4	33	2
+spingel	2010-12-14	2010-12-14	false	 7	97	3
+spingel	2010-11-12	2010-11-12	false	 11	172	172
+spingel	2010-11-11	2010-11-11	false	 8	169	169
+spingel	2010-11-11	2010-11-11	false	 24	503	502
+spingel	2010-10-27	2010-10-27	false	 13	323	214
+spingel	2010-10-20	2010-10-20	false	 16	737	0
+spingel	2010-10-20	2010-10-20	false	 3	219	7
+spingel	2010-09-27	2010-09-27	false	 8	309	11
+spingel	2010-09-27	2010-09-27	false	 2	3	1
+spingel	2010-09-25	2010-09-25	false	 1	1	1
+spingel	2010-09-24	2010-09-24	false	 1	11	11
+spingel	2010-09-24	2010-09-24	false	 36	1536	0
